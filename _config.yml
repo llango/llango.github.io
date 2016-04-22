@@ -8,7 +8,7 @@ encoding: "utf-8"
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 凉葱　－－－一个为你的心灵提供栖息之所的轻应用
+title: 凉葱－一个为你的心灵提供栖息之所的轻应用
 email: admin@llango.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
