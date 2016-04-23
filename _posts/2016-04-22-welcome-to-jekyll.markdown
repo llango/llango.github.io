@@ -4,7 +4,6 @@ title:  "白雪的原野，苍白的月亮"
 author: '叶赛宁'
 date:   2016-04-19 23:38:18 +0800
 img: page04.jpg
-categories: jekyll update
 ---
 白雪的原野，苍白的月亮，   
 白色的殓布覆盖着家乡。   
