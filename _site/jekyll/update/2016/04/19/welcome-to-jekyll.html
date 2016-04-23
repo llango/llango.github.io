@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>白雪的原野，苍白的月亮</title>
+  <title></title>
   <meta name="description" content="白雪的原野，苍白的月亮， 白色的殓布覆盖着家乡。 白桦穿着白麻衣在林中哭泣， 这儿谁死了？谁？莫非是我自己？">
 
   <link rel="stylesheet" href="/css/style.css">
@@ -37,8 +37,8 @@
 
     </nav>
   </header>
-    <section>
-    <div id="splash" onload="svguse();">
+    <section id="svguse" onload="svguse();">
+    <div id="splash">
         <div class="anim">
             <div id="loader">
               <svg version="1.1" width="60px" height="70px" viewBox="0 0 60 70">
@@ -92,9 +92,11 @@
       
       if(browser.versions.mobile || browser.versions.ios || browser.versions.android ||     
           browser.versions.iPhone || browser.versions.iPad){
-            document.getElementById("splash").style.display='hidden';
+            document.getElementById("svguse").style.display='none';
+            document.getElementById("splash").style.backgroundColor='transparent !important';
       }else{
-        document.getElementById("splash").style.display='display';
+        document.getElementById("svguse").style.display='block';
+        document.getElementById("splash").style.backgroundColor='rgba(0,0,0,0.8)';
       }
     }
   </script>
