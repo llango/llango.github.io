@@ -73,9 +73,10 @@
       if(browser.versions.mobile || browser.versions.ios || browser.versions.android ||     
           browser.versions.iPhone || browser.versions.iPad){
             document.getElementById("svguse").style.display='none';
-          document.getElementById("splash").style.backgroundColor='rgba(0,0,0,0)';
+            document.getElementById("splash").style.backgroundColor='transparent !important';
       }else{
         document.getElementById("svguse").style.display='block';
+        document.getElementById("splash").style.backgroundColor='rgba(0,0,0,0.8)';
       }
     }
   </script>
