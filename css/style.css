@@ -132,7 +132,6 @@ nav ul li a {
 }
 
 #splash {
-    background: rgba(0,0,0,0.8);
     background-repeat: repeat-y;
     position: fixed;
     left: 0;
@@ -144,6 +143,17 @@ nav ul li a {
     animation-fill-mode: forwards;
     -webkit-animation-fill-mode: forwards;
     z-index: 1000;
+}
+
+@media (min-width:600px ){
+    #splash{
+        background:rgba(0,0,0,0.8);
+    }
+}
+@media (max-width: 600px) {
+    #splash {
+        background: transparent;
+    }
 }
 
 #loader {
