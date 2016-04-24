@@ -18,8 +18,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://llango.com" # the base hostname & protocol for your site
 
 # Build settings
+permalink: /:year/:month/:day/:title/
 markdown: kramdown
-paginate: 3
+paginate: 1
 
 
 
