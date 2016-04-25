@@ -269,8 +269,8 @@ nav ul li a {
     line-height: 39px;
 }
 .content-title{
-    font-weight: 16px;
-    font-weight: 600;
+    font-size: 15px;
+    font-weight: bold;
 }
 .content-author, .content-date{
     float: right;
