@@ -6,9 +6,42 @@
 </description>
     <link>http://llango.com/</link>
     <atom:link href="http://llango.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 10 May 2016 21:30:21 +0800</pubDate>
-    <lastBuildDate>Tue, 10 May 2016 21:30:21 +0800</lastBuildDate>
+    <pubDate>Thu, 12 May 2016 22:23:58 +0800</pubDate>
+    <lastBuildDate>Thu, 12 May 2016 22:23:58 +0800</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>My Memory</title>
+        <description>&lt;h2 id=&quot;me&quot;&gt;me&lt;/h2&gt;
+&lt;p&gt;layout: post
+title:  “我的记忆”
+author: ‘凉葱落’
+date:   2016-05-12 07:30:18 +0800
+img: 20160512.jpg
+—
+当生命最为颓废的时候，   &lt;br /&gt;
+我不会出现，在你的面前   &lt;br /&gt;
+阳光依旧那般璀璨，那般温暖。&lt;/p&gt;
+
+&lt;p&gt;当站在别人抬头仰望的高度时，    &lt;br /&gt;
+我会注视大家的目光，在注视中寻找你那凝神的倩影，      &lt;br /&gt;
+在你凝视下去检讨自我人生，乃至生命价值和意义。&lt;/p&gt;
+
+&lt;p&gt;当我们之间的距离越来越远时，        &lt;br /&gt;
+我渐渐地迷失了自我，失去了你曾欣羡的笑容。             &lt;br /&gt;
+琴声、白裙、那一低头的温柔、那一回眸的微笑成了深夜里孤寂的灵魂仰望星空所幻想的奢求。&lt;/p&gt;
+
+&lt;p&gt;当某一刻来临时，      &lt;br /&gt;
+让我看着你，让我用这双曾焕发着生命曙光的双手紧紧地紧紧地握住你，      &lt;br /&gt;
+直到灵魂在高空中飞舞。&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 12 May 2016 00:00:00 +0800</pubDate>
+        <link>http://llango.com/2016/05/12/my-memory/</link>
+        <guid isPermaLink="true">http://llango.com/2016/05/12/my-memory/</guid>
+        
+        
+      </item>
     
       <item>
         <title>梦曲</title>
@@ -170,32 +203,6 @@
         <pubDate>Mon, 02 May 2016 10:30:18 +0800</pubDate>
         <link>http://llango.com/2016/05/02/love-you/</link>
         <guid isPermaLink="true">http://llango.com/2016/05/02/love-you/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>就一眼</title>
-        <description>&lt;p&gt;就足够了      &lt;br /&gt;
-只需要一眼     &lt;br /&gt;
-我就看见了内心的诱惑&lt;/p&gt;
-
-&lt;p&gt;这个时候      &lt;br /&gt;
-用浑身的骨头    &lt;br /&gt;
-搭一间小屋     &lt;br /&gt;
-用全身的鲜血    &lt;br /&gt;
-粉刷一新      &lt;br /&gt;
-爱住进来&lt;/p&gt;
-
-&lt;p&gt;爱住进来      &lt;br /&gt;
-我就会用一块伤疤      &lt;br /&gt;
-与另一块伤疤相握&lt;/p&gt;
-
-&lt;p&gt;［ps］:东西弄出来有时并不是很及时，团队对此表示抱歉．每日一篇似乎并没有想象的那么容易，不过请放心小编一定会尽力做到每日一篇，哪怕当天没有弄出来，小编会后续给补上，感谢有你们的陪伴．五一快乐！&lt;/p&gt;
-</description>
-        <pubDate>Sat, 30 Apr 2016 10:30:18 +0800</pubDate>
-        <link>http://llango.com/2016/04/30/just-a-sight/</link>
-        <guid isPermaLink="true">http://llango.com/2016/04/30/just-a-sight/</guid>
         
         
       </item>
