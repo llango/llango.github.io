@@ -5,9 +5,7 @@ author: '凉葱落整理'
 date:   2016-05-25 07:30:18 +0800
 img: 20160525.jpg
 ---
-<audio src="http://music.baidutt.com/up/kwcywaka/mkmpcu.mp3" controls="controls" autoplay="true">
-你的浏览器不知道哦！
-</audio>
+<audio src="http://music.baidutt.com/up/kwcywaka/mkmpcu.mp3" controls="controls" autoplay="true">你的浏览器不支持哦！</audio>
 <br>
 <b>我们俩老了</b> <br>
 ...记得我的埋怨，叫我做了一个长达万里的梦.     
