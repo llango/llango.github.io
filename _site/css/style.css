@@ -13,6 +13,8 @@ nav {
     height: 68px;
     background-color: white;
     position: fixed;
+    border-bottom:1px solid #f1f1f1;
+    box-shadow: 0 1px 1px #eee;
     top: 0;
     transition-duration: 0.5s;
     transition-timing-function: swing;
