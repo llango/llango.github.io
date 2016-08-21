@@ -6,8 +6,8 @@ date:   2016-05-24 07:30:18 +0800
 img: 20160524.jpg
 ---
 
-<audio src="http://room.5dian1.net/music/01alhls.mp3" controls="controls" autoplay="true">
-你的浏览器不知道哦！
+<audio src="http://room.5dian1.net/music/ananau01.mp3" controls="controls" autoplay="false">
+你的浏览器不支持哦！
 </audio>
 <br>
 <b>人生好与不好，永远都是如鱼饮水冷暖自知，如果让你用一句话来形容一下自己的生活状态，你会怎么说呢？</b> <br>
