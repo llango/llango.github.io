@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "中国武警官方2016年征兵宣传片"
+title:  "给剩男剩女的爱情忠告，句句经典"
 author: '凉葱落'
-date:   2016-08-31 00:30:18 +0800
-img: 20160831.jpg
+date:   2016-09-01 00:01:18 +0800
+img: 20160901.jpg
 ---
 <style type="text/css">img{display:none;}</style>
-<iframe frameborder="0" width="100%" src="http://v.qq.com/iframe/player.html?vid=s0324bot99j&tiny=0&auto=0" allowfullscreen></iframe>
+<iframe frameborder="0" width="100%" height="auto" src="http://v.qq.com/iframe/player.html?vid=z0324qm8plt&tiny=0&auto=0" allowfullscreen></iframe>
