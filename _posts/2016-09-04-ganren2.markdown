@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "超感人短片《10年》"
+author: '凉葱落'
+date:   2016-09-04 00:30:18 +0800
+---
+<style type="text/css">img{display:none;}</style>
+<iframe frameborder="0" width="100%" src="http://v.qq.com/iframe/player.html?vid=o0317tddf5t&tiny=0&auto=0" allowfullscreen></iframe>
+

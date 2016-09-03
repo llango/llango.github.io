@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "多次获奖的CG短片《心》"
+author: '凉葱落'
+date:   2016-09-03 00:30:18 +0800
+---
+<style type="text/css">img{display:none;}</style>
+<iframe frameborder="0" width="100%"  src="http://v.qq.com/iframe/player.html?vid=p01180254ms&tiny=0&auto=0" allowfullscreen></iframe>
+
