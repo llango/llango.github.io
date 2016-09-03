@@ -8,7 +8,7 @@ layout: default
             <ul class="post-list">
               {% for post in paginator.posts limit:1 %}
                 <li class="content">
-                    <img src="{{ "/images/" }}{{ post.img }}" alt="">
+                    <div class="img"><img src="{{ "/images/" }}{{ post.img }}" alt=""></div>
                     <div class="content-block">
                       	<div class="content-h">
                         	<p><span class="content-title">{{ post.title }}</span><span class="content-author"> ———— {{ post.author }}</span></p>
