@@ -3,7 +3,7 @@ layout: post
 title:  "超感人短片《10年》"
 author: '凉葱落'
 date:   2016-09-04 00:30:18 +0800
-img: 20160823.jpg
+img: weixin.jpg
 ---
 <style type="text/css">.img{display:none;}</style>
 
