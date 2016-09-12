@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "中秋思乡(沙画视频)"
+author: '凉葱落'
+date:   2016-09-12 00:30:18 +0800
+img: 20160912.jpg
+---
+<style type="text/css">.img{display:none;}</style>
+<iframe frameborder="0" width="100%" src="http://v.qq.com/iframe/player.html?vid=c0328vgli8a&tiny=0&auto=0" allowfullscreen></iframe>
+
