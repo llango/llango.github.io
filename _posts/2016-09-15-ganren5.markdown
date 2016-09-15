@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "中秋快乐"
+author: '凉葱落'
+date:   2016-09-15 00:30:18 +0800
+img: 20160915.jpg
+---
+<audio src="http://room.5dian1.net/music/01tianta.mp3" controls="controls" autoplay="true">
+你的浏览器不支持哦！
+</audio>
+<br>
+良葱－－－在这个特别的日子里送你一缕清风，愿它带给你清爽心情，送你一朵白云，愿它带给你连绵好运，送你一个月亮，愿它代我祝福你：中秋快乐!
+
+
