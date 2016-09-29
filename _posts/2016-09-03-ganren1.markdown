@@ -1,10 +1,26 @@
 ---
 layout: post
-title:  "多次获奖的CG短片《心》"
+title:  "感人轻音乐1"
 author: '凉葱落'
-date:   2016-09-03 00:30:18 +0800
+date:   2016-09-29 00:30:18 +0800
 img: weixin.jpg
 ---
-<style type="text/css">.img{display:none;}</style>
-<iframe frameborder="0" width="100%"  src="http://v.qq.com/iframe/player.html?vid=p01180254ms&tiny=0&auto=0" allowfullscreen></iframe>
+<audio autobuffer autoloop loop controls>
+    <source src="http://room.5dian1.net/music/tiankong010.mp3">
+    <object type="audio/x-mp3" data="http://room.5dian1.net/music/tiankong010.mp3" height="45">
+        <param name="src" value="/media/audio.wav">
+        <param name="autoplay" value="false">
+        <param name="autoStart" value="1">
+        <p><a href="http://room.5dian1.net/music/tiankong010.mp3">下载该音乐</a></p>
+    </object>
+</audio>
 
+<audio autobuffer autoloop loop controls>
+    <source src="http://room.5dian1.net/music/yuye0101.mp3">
+    <object type="audio/x-mp3" data="http://room.5dian1.net/music/yuye0101.mp3" height="45">
+        <param name="src" value="/media/audio.wav">
+        <param name="autoplay" value="false">
+        <param name="autoStart" value="0">
+        <p><a href="http://room.5dian1.net/music/yuye0101.mp3">下载该音乐</a></p>
+    </object>
+</audio>
