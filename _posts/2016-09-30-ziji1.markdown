@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "青春(很温馨音乐)"
+author: '凉葱落'
+date:   2016-09-30 11:30:18 +0800
+img: 20160930.jpg
+---
+<audio autobuffer autoloop loop controls>
+    <source src="http://room.5dian1.net/music/qcheng01.mp3">
+    <object type="audio/x-mp3" data="http://room.5dian1.net/music/qcheng01.mp3" height="45">
+        <param name="src" value="http://room.5dian1.net/music/qcheng01.mp3">
+        <param name="autoplay" value="false">
+        <param name="autoStart" value="1">
+        <p><a href="http://room.5dian1.net/music/qcheng01.mp3">下载该音乐</a></p>
+    </object>
+</audio>
+
+
