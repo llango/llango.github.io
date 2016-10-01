@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "一首独唱的歌(很恬静)"
+author: '凉葱落'
+date:   2016-10-01 11:30:18 +0800
+img: 20160424.jpg
+---
+<audio autobuffer autoloop loop controls>
+    <source src="http://room.5dian1.net/music/03ysdcdg-gsy.mp3">
+    <object type="audio/x-mp3" data="http://room.5dian1.net/music/03ysdcdg-gsy.mp3" height="45">
+        <param name="src" value="http://room.5dian1.net/music/03ysdcdg-gsy.mp3">
+        <param name="autoplay" value="false">
+        <param name="autoStart" value="1">
+        <p><a href="http://room.5dian1.net/music/03ysdcdg-gsy.mp3">下载该音乐</a></p>
+    </object>
+</audio>
+
+
