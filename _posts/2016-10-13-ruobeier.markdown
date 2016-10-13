@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Blowing In The Wind"
+author: '鲍勃.迪伦'
+date:   2016-10-13 12:30:18 +0800
+img: 20161013.jpg
+---
+一个人要经历多长的旅途<br/>
+     才能成为真正的男人  ---答案就是：在风中飘扬
+<iframe frameborder="0" src="http://music.163.com/outchain/player?type=2&id=16504268&auto=1&height=66" allowfullscreen style="width:100%;"></iframe>
+
+
+
+
