@@ -5,9 +5,34 @@
     <description>一个为你的心灵提供栖息之所的轻应用，由langoft.com创建，在这里你能看到很多大家写的文章，诗歌，或其他文学形式，主要采用图文并茂的形式呈现，目前基本上是每日一篇，目的为了让你在这个浮华的世界里找到自己的心灵栖所．</description>
     <link>http://llango.com/</link>
     <atom:link href="http://llango.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 30 Oct 2016 11:29:30 +0800</pubDate>
-    <lastBuildDate>Sun, 30 Oct 2016 11:29:30 +0800</lastBuildDate>
+    <pubDate>Wed, 02 Nov 2016 13:01:32 +0800</pubDate>
+    <lastBuildDate>Wed, 02 Nov 2016 13:01:32 +0800</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>门前－［诗（顾城）,音乐（赵老师）］</title>
+        <description>&lt;p&gt;我多么希望，有一个门口，早晨，阳光照在草上。我们站着，扶着自己的门窗，门很低，但太阳是明亮的。草在结它的种子，风在摇它的叶子，我们站着，不说话，就十分美好。—–顾城［门前］&lt;/p&gt;
+&lt;iframe frameborder=&quot;0&quot; src=&quot;http://music.163.com/outchain/player?type=2&amp;amp;id=31149785&amp;amp;auto=1&amp;amp;height=66&quot; allowfullscreen=&quot;&quot; style=&quot;width:100%;&quot;&gt;&lt;/iframe&gt;
+
+</description>
+        <pubDate>Wed, 02 Nov 2016 01:30:18 +0800</pubDate>
+        <link>http://llango.com/2016/11/02/musicshige1/</link>
+        <guid isPermaLink="true">http://llango.com/2016/11/02/musicshige1/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>孤独是种美(music)</title>
+        <description>&lt;iframe frameborder=&quot;0&quot; src=&quot;http://music.163.com/outchain/player?type=0&amp;amp;id=401710949&amp;amp;auto=1&amp;amp;height=430&quot; allowfullscreen=&quot;&quot; style=&quot;width:100%;height:600px&quot;&gt;&lt;/iframe&gt;
+
+</description>
+        <pubDate>Mon, 31 Oct 2016 01:30:18 +0800</pubDate>
+        <link>http://llango.com/2016/10/31/musicgudushiyizhongmei/</link>
+        <guid isPermaLink="true">http://llango.com/2016/10/31/musicgudushiyizhongmei/</guid>
+        
+        
+      </item>
     
       <item>
         <title>第一首情歌／那年那少年(诗歌,音乐)</title>
@@ -127,38 +152,6 @@
         <pubDate>Wed, 05 Oct 2016 12:30:18 +0800</pubDate>
         <link>http://llango.com/2016/10/05/gankaixintu/</link>
         <guid isPermaLink="true">http://llango.com/2016/10/05/gankaixintu/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Wake Me Up When September Ends</title>
-        <description>&lt;iframe frameborder=&quot;0&quot; width=&quot;100%&quot; src=&quot;http://music.163.com/outchain/player?type=2&amp;amp;id=18127334&amp;amp;auto=1&amp;amp;height=66&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-</description>
-        <pubDate>Wed, 05 Oct 2016 11:30:18 +0800</pubDate>
-        <link>http://llango.com/2016/10/05/gankai/</link>
-        <guid isPermaLink="true">http://llango.com/2016/10/05/gankai/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>一首独唱的歌(很恬静)</title>
-        <description>&lt;audio autobuffer=&quot;&quot; autoloop=&quot;&quot; loop=&quot;&quot; controls=&quot;&quot;&gt;
-    &lt;source src=&quot;http://room.5dian1.net/music/03ysdcdg-gsy.mp3&quot; /&gt;
-    &lt;object type=&quot;audio/x-mp3&quot; data=&quot;http://room.5dian1.net/music/03ysdcdg-gsy.mp3&quot; height=&quot;45&quot;&gt;
-        &lt;param name=&quot;src&quot; value=&quot;http://room.5dian1.net/music/03ysdcdg-gsy.mp3&quot; /&gt;
-        &lt;param name=&quot;autoplay&quot; value=&quot;false&quot; /&gt;
-        &lt;param name=&quot;autoStart&quot; value=&quot;1&quot; /&gt;
-        &lt;p&gt;&lt;a href=&quot;http://room.5dian1.net/music/03ysdcdg-gsy.mp3&quot;&gt;下载该音乐&lt;/a&gt;&lt;/p&gt;
-    &lt;/object&gt;
-&lt;/audio&gt;
-
-</description>
-        <pubDate>Sat, 01 Oct 2016 11:30:18 +0800</pubDate>
-        <link>http://llango.com/2016/10/01/wenwo/</link>
-        <guid isPermaLink="true">http://llango.com/2016/10/01/wenwo/</guid>
         
         
       </item>
