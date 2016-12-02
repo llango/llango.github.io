@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "滑云(mv)-感觉好好玩"
+author: '凉葱落'
+date:   2016-12-02 12:30:18 +0800
+img: 20161105.jpg
+---
+<style>.img{display:none;}</style>
+
+<iframe frameborder="0" src="https://v.qq.com/iframe/player.html?vid=e0351vmlmas&tiny=0&auto=0"  allowfullscreen style="width:100%; min-height:240px"></iframe>
