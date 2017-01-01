@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "你在终点等我(王菲)"
-author: '凉葱落'
+author: '王菲'
 date:   2017-01-01 01:30:18 +0800
 img: 20170101.jpg
 ---
