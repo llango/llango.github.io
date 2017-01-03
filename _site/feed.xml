@@ -3,11 +3,76 @@
   <channel>
     <title>凉葱－为你寻找最美图文，音乐，视频</title>
     <description>一个为你的心灵提供栖息之所的轻应用，由langoft.com创建，在这里你能看到很多大家写的文章，诗歌，或其他文学形式，主要采用图文并茂的形式呈现，目前基本上是每日一篇，目的为了让你在这个浮华的世界里找到自己的心灵栖所．</description>
-    <link>http://llango.com/</link>
-    <atom:link href="http://llango.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Dec 2016 19:21:07 +0800</pubDate>
-    <lastBuildDate>Mon, 26 Dec 2016 19:21:07 +0800</lastBuildDate>
-    <generator>Jekyll v3.1.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 03 Jan 2017 22:16:29 +0800</pubDate>
+    <lastBuildDate>Tue, 03 Jan 2017 22:16:29 +0800</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>2017海军招飞宣传片</title>
+        <description>&lt;!-- &lt;iframe frameborder=&quot;0&quot; src=&quot;//music.163.com/outchain/player?type=1&amp;id=149705&amp;auto=1&amp;height=430&quot; allowfullscreen style=&quot;width:100%;height:600px&quot;&gt;&lt;/iframe&gt; --&gt;
+&lt;style&gt;
+    .img{display:none;}
+&lt;/style&gt;
+
+&lt;iframe frameborder=&quot;0&quot; src=&quot;http://14.215.85.42/vhot2.qqvideo.tc.qq.com/k0361z0l35r.mp4?sdtfrom=v1021&amp;amp;type=mp4&amp;amp;vkey=1E959BA6AF36A5313298F5AB01BFA248E3B10074041CB5699D2F496E8DF65752395248E850E91972D520E11B83F5A2E9C09201C679AF2901CED5B9821C5BE5A943F4C08DE1AFEF1D4DD1F731A5DBA9C178FF8371C7AC7C25AE81BB8FE1D4253A0B8F0D709A2D7D661B748E3E9D36B232&amp;amp;level=0&amp;amp;platform=11&amp;amp;br=59&amp;amp;fmt=mp4&amp;amp;sp=0&amp;amp;guid=3174FE4E63563459FE7F1BD0A629B4A1&quot; allowfullscreen=&quot;&quot; style=&quot;width:100%;min-height:320px;&quot;&gt;&lt;/iframe&gt;
+
+</description>
+        <pubDate>Sun, 01 Jan 2017 12:30:18 +0800</pubDate>
+        <link>http://localhost:4000/2017/01/01/haijun-video/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/01/01/haijun-video/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>你在终点等我(王菲)</title>
+        <description>&lt;p&gt;是你给了我 一把伞
+撑住 倾盆洒落的 孤单
+所以好像送你一弯 河岸
+洗涤腐蚀心灵的 遗憾
+给你我所有的 温暖
+脱下 唯一挡风的 衣衫
+思念刮过背脊打着 冷颤
+眼神 仍旧为你而 点燃
+我一直追寻着你 心情的足迹
+被所有的人误解 都要理解你
+准备好 当擦亮你
+天际的浮云
+你却在终点等我
+笑里有雨滴
+我甘愿成全了你 珍藏的往昔
+只想你找回让你 像你的热情
+然后就拖着自己 到山城隐居
+你却在终点等我 住进你心里&lt;/p&gt;
+
+&lt;p&gt;没有你的地方 都是他乡
+没有你的旅行 都是流浪
+那些兜兜转转的 曲折与感伤
+都是翅膀
+都为了飞来你 肩上
+我一直追寻着你 心情的足迹
+被所有的人误解 都要理解你
+准备好 当擦亮你
+天际的浮云
+你却在终点等我
+笑里有雨滴
+我甘愿成全了你 珍藏的往昔
+只想你找回让你 像你的热情
+然后就拖着自己 到山城隐居
+你却在终点等我 住进你心里&lt;/p&gt;
+
+&lt;!-- &lt;iframe frameborder=&quot;0&quot; src=&quot;//music.163.com/outchain/player?type=1&amp;id=149705&amp;auto=1&amp;height=430&quot; allowfullscreen style=&quot;width:100%;height:600px&quot;&gt;&lt;/iframe&gt; --&gt;
+&lt;iframe frameborder=&quot;0&quot; src=&quot;//music.163.com/outchain/player?type=2&amp;amp;id=431357712&amp;amp;auto=1&amp;amp;height=66&quot; allowfullscreen=&quot;&quot; style=&quot;width:100%;height:66px&quot;&gt;&lt;/iframe&gt;
+
+</description>
+        <pubDate>Sun, 01 Jan 2017 01:30:18 +0800</pubDate>
+        <link>http://localhost:4000/2017/01/01/musicshige/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/01/01/musicshige/</guid>
+        
+        
+      </item>
     
       <item>
         <title>世界级罕见天才童声(系列)</title>
@@ -16,8 +81,8 @@
 &lt;iframe frameborder=&quot;0&quot; src=&quot;//music.163.com/outchain/player?type=1&amp;amp;id=510796&amp;amp;auto=1&amp;amp;height=430&quot; allowfullscreen=&quot;&quot; style=&quot;width:100%;height:600px&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Mon, 26 Dec 2016 01:30:18 +0800</pubDate>
-        <link>http://llango.com/2016/12/26/musicshige/</link>
-        <guid isPermaLink="true">http://llango.com/2016/12/26/musicshige/</guid>
+        <link>http://localhost:4000/2016/12/26/musicshige/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/12/26/musicshige/</guid>
         
         
       </item>
@@ -29,8 +94,8 @@
 &lt;iframe frameborder=&quot;0&quot; src=&quot;//music.163.com/outchain/player?type=1&amp;amp;id=2532035&amp;amp;auto=1&amp;amp;height=430&quot; allowfullscreen=&quot;&quot; style=&quot;width:100%;height:600px&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Sun, 18 Dec 2016 01:30:18 +0800</pubDate>
-        <link>http://llango.com/2016/12/18/musicshige/</link>
-        <guid isPermaLink="true">http://llango.com/2016/12/18/musicshige/</guid>
+        <link>http://localhost:4000/2016/12/18/musicshige/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/12/18/musicshige/</guid>
         
         
       </item>
@@ -42,8 +107,8 @@
 &lt;iframe frameborder=&quot;0&quot; src=&quot;http://music.163.com/outchain/player?type=1&amp;amp;id=172115&amp;amp;auto=1&amp;amp;height=430&quot; allowfullscreen=&quot;&quot; style=&quot;width:100%;height:600px&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Fri, 16 Dec 2016 01:30:18 +0800</pubDate>
-        <link>http://llango.com/2016/12/16/musicshige-lei/</link>
-        <guid isPermaLink="true">http://llango.com/2016/12/16/musicshige-lei/</guid>
+        <link>http://localhost:4000/2016/12/16/musicshige-lei/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/12/16/musicshige-lei/</guid>
         
         
       </item>
@@ -54,8 +119,8 @@
 
 </description>
         <pubDate>Thu, 15 Dec 2016 01:30:18 +0800</pubDate>
-        <link>http://llango.com/2016/12/15/musicgudushiyizhongmei1/</link>
-        <guid isPermaLink="true">http://llango.com/2016/12/15/musicgudushiyizhongmei1/</guid>
+        <link>http://localhost:4000/2016/12/15/musicgudushiyizhongmei1/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/12/15/musicgudushiyizhongmei1/</guid>
         
         
       </item>
@@ -79,8 +144,8 @@
 
 </description>
         <pubDate>Mon, 05 Dec 2016 01:30:18 +0800</pubDate>
-        <link>http://llango.com/2016/12/05/musicshige/</link>
-        <guid isPermaLink="true">http://llango.com/2016/12/05/musicshige/</guid>
+        <link>http://localhost:4000/2016/12/05/musicshige/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/12/05/musicshige/</guid>
         
         
       </item>
@@ -92,8 +157,8 @@
 &lt;iframe frameborder=&quot;0&quot; src=&quot;https://v.qq.com/iframe/player.html?vid=e0351vmlmas&amp;amp;tiny=0&amp;amp;auto=0&quot; allowfullscreen=&quot;&quot; style=&quot;width:100%; min-height:240px&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Fri, 02 Dec 2016 12:30:18 +0800</pubDate>
-        <link>http://llango.com/2016/12/02/mvyanjie0/</link>
-        <guid isPermaLink="true">http://llango.com/2016/12/02/mvyanjie0/</guid>
+        <link>http://localhost:4000/2016/12/02/mvyanjie0/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/12/02/mvyanjie0/</guid>
         
         
       </item>
@@ -110,8 +175,8 @@
 
 </description>
         <pubDate>Wed, 30 Nov 2016 01:30:18 +0800</pubDate>
-        <link>http://llango.com/2016/11/30/musicshige/</link>
-        <guid isPermaLink="true">http://llango.com/2016/11/30/musicshige/</guid>
+        <link>http://localhost:4000/2016/11/30/musicshige/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/11/30/musicshige/</guid>
         
         
       </item>
@@ -135,46 +200,8 @@
 
 </description>
         <pubDate>Sat, 26 Nov 2016 01:30:18 +0800</pubDate>
-        <link>http://llango.com/2016/11/26/article/</link>
-        <guid isPermaLink="true">http://llango.com/2016/11/26/article/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>意外/浪漫恋歌(二)</title>
-        <description>&lt;h3&gt;意外&lt;/h3&gt;
-&lt;p&gt;夜深，灯光摇曳&lt;br /&gt;
-走在风暴中，安静雪地上蹦出的哧哧笑语&lt;br /&gt;
-而凌乱的松枝上&lt;br /&gt;
-是晶光闪亮的泪水&lt;br /&gt;
-似银铃铛在嘟嘟交响&lt;br /&gt;
-&lt;br /&gt;
-回眸&lt;br /&gt;
-是双睁开了的眼睛&lt;br /&gt;
-在淡薄的脚印上&lt;br /&gt;
-期盼&lt;br /&gt;
-你不胜凉风的娇羞&lt;br /&gt;
-－－－－凉葱落&lt;/p&gt;
-&lt;iframe frameborder=&quot;0&quot; src=&quot;http://music.163.com/outchain/player?type=0&amp;amp;id=507733167&amp;amp;auto=1&amp;amp;height=430&quot; allowfullscreen=&quot;&quot; style=&quot;width:100%;height:600px&quot;&gt;&lt;/iframe&gt;
-
-</description>
-        <pubDate>Sat, 26 Nov 2016 01:30:18 +0800</pubDate>
-        <link>http://llango.com/2016/11/26/article/</link>
-        <guid isPermaLink="true">http://llango.com/2016/11/26/article/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>文露女神-一听就喜欢上的声音</title>
-        <description>&lt;p&gt;文露女神的，喜欢听她的声音赶紧关注吧，网易云音乐搜索＂上官文露＂，也可以上”花椒”看她直播(仍搜上官文露)，很美的女神，声音美，人美，最是BTV新闻报道时那一低头的温柔，那一抬头的微笑．最是寂静夜晚里打开她的声音时那丝丝缕缕的呼声，那的的当当的触动．&lt;/p&gt;
-&lt;iframe frameborder=&quot;0&quot; src=&quot;http://music.163.com/outchain/player?type=4&amp;amp;id=1791002&amp;amp;auto=1&amp;amp;height=430&quot; allowfullscreen=&quot;&quot; style=&quot;width:100%;height:600px&quot;&gt;&lt;/iframe&gt;
-
-</description>
-        <pubDate>Wed, 23 Nov 2016 01:30:18 +0800</pubDate>
-        <link>http://llango.com/2016/11/23/article/</link>
-        <guid isPermaLink="true">http://llango.com/2016/11/23/article/</guid>
+        <link>http://localhost:4000/2016/11/26/article/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/11/26/article/</guid>
         
         
       </item>
