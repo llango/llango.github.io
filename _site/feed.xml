@@ -5,9 +5,35 @@
     <description>一个为你的心灵提供栖息之所的轻应用，由langoft.com创建，在这里你能看到很多大家写的文章，诗歌，或其他文学形式，主要采用图文并茂的形式呈现，目前基本上是每日一篇，目的为了让你在这个浮华的世界里找到自己的心灵栖所．</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 10 Feb 2017 22:49:00 +0800</pubDate>
-    <lastBuildDate>Fri, 10 Feb 2017 22:49:00 +0800</lastBuildDate>
+    <pubDate>Mon, 13 Feb 2017 18:31:17 +0800</pubDate>
+    <lastBuildDate>Mon, 13 Feb 2017 18:31:17 +0800</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>一只松鼠【钢琴伴奏集】</title>
+        <description>&lt;p&gt;下班, 街上,&lt;br /&gt;
+沉寂的脚步开始骚响.&lt;br /&gt;
+&lt;br /&gt;
+一只松鼠,&lt;br /&gt;
+在葱郁的芒树上,&lt;br /&gt;
+在明亮的黄昏里,&lt;br /&gt;
+在我的头上，&lt;br /&gt;
+在我的眼里,&lt;br /&gt;
+分享我的忧伤…&lt;br /&gt;
+&lt;br /&gt;
+我敛嘴一笑,&lt;br /&gt;
+阳光照进了心灵.&lt;br /&gt;
+&lt;br /&gt;
+—-凉葱落&lt;/p&gt;
+&lt;iframe frameborder=&quot;0&quot; src=&quot;//music.163.com/outchain/player?type=1&amp;amp;id=35015153&amp;amp;auto=1&amp;amp;height=430&quot; allowfullscreen=&quot;&quot; style=&quot;width:100%;height:450px&quot;&gt;&lt;/iframe&gt;
+
+</description>
+        <pubDate>Mon, 13 Feb 2017 01:30:18 +0800</pubDate>
+        <link>http://localhost:4000/2017/02/13/musicshige/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/02/13/musicshige/</guid>
+        
+        
+      </item>
     
       <item>
         <title>纯真【空灵音乐集(1)】</title>
@@ -268,18 +294,6 @@
         <pubDate>Fri, 16 Dec 2016 01:30:18 +0800</pubDate>
         <link>http://localhost:4000/2016/12/16/musicshige-lei/</link>
         <guid isPermaLink="true">http://localhost:4000/2016/12/16/musicshige-lei/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>独处的美(系列音乐)</title>
-        <description>&lt;iframe frameborder=&quot;0&quot; src=&quot;http://music.163.com/outchain/player?type=0&amp;amp;id=401710949&amp;amp;auto=1&amp;amp;height=430&quot; allowfullscreen=&quot;&quot; style=&quot;width:100%;height:600px&quot;&gt;&lt;/iframe&gt;
-
-</description>
-        <pubDate>Thu, 15 Dec 2016 01:30:18 +0800</pubDate>
-        <link>http://localhost:4000/2016/12/15/musicgudushiyizhongmei1/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/12/15/musicgudushiyizhongmei1/</guid>
         
         
       </item>
