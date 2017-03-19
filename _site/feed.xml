@@ -5,9 +5,27 @@
     <description>一个为你的心灵提供栖息之所的轻应用，由langoft.com创建，在这里你能看到很多大家写的文章，诗歌，或其他文学形式，主要采用图文并茂的形式呈现，目前基本上是每日一篇，目的为了让你在这个浮华的世界里找到自己的心灵栖所．</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Mar 2017 23:19:03 +0800</pubDate>
-    <lastBuildDate>Mon, 13 Mar 2017 23:19:03 +0800</lastBuildDate>
+    <pubDate>Sun, 19 Mar 2017 22:40:01 +0800</pubDate>
+    <lastBuildDate>Sun, 19 Mar 2017 22:40:01 +0800</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>我已不再是青春少年【这曲小编我都听哭了...】</title>
+        <description>&lt;p&gt;不惋惜，不呼唤，我也不啼哭,&lt;br /&gt;
+一切将逝去……如苹果花丛的薄雾 &lt;br /&gt;
+金黄的落叶堆满我心间—— &lt;br /&gt;
+我已不再是青春少年。&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;—-叶赛宁&lt;/p&gt;
+&lt;iframe frameborder=&quot;0&quot; src=&quot;//music.163.com/outchain/player?type=1&amp;amp;id=1507841&amp;amp;auto=1&amp;amp;height=4300&quot; allowfullscreen=&quot;&quot; style=&quot;width:100%;height:450px&quot;&gt;&lt;/iframe&gt;
+
+</description>
+        <pubDate>Sun, 19 Mar 2017 01:30:18 +0800</pubDate>
+        <link>http://localhost:4000/2017/03/19/musicshige/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/03/19/musicshige/</guid>
+        
+        
+      </item>
     
       <item>
         <title>吻【Yiruma(李闰珉)的钢琴曲】</title>
@@ -311,23 +329,6 @@
         <pubDate>Tue, 17 Jan 2017 01:30:18 +0800</pubDate>
         <link>http://localhost:4000/2017/01/17/musicshige/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/01/17/musicshige/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>2017海军招飞宣传片</title>
-        <description>&lt;!-- &lt;iframe frameborder=&quot;0&quot; src=&quot;//music.163.com/outchain/player?type=1&amp;id=149705&amp;auto=1&amp;height=430&quot; allowfullscreen style=&quot;width:100%;height:600px&quot;&gt;&lt;/iframe&gt; --&gt;
-&lt;style&gt;
-    .img{display:none;}
-&lt;/style&gt;
-
-&lt;iframe frameborder=&quot;0&quot; src=&quot;https://v.qq.com/iframe/player.html?vid=l0359myqrkc&amp;amp;tiny=0&amp;amp;auto=0&quot; allowfullscreen=&quot;&quot; style=&quot;width:100%;min-height:320px;&quot;&gt;&lt;/iframe&gt;
-
-</description>
-        <pubDate>Sun, 01 Jan 2017 12:30:18 +0800</pubDate>
-        <link>http://localhost:4000/2017/01/01/haijun-video/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/01/01/haijun-video/</guid>
         
         
       </item>
