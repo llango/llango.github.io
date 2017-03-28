@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>我们仨(纪念)－凉葱－为你寻找最美图文/音乐/视频</title>
+  <title>夜晚的巴黎＜歌词集＞－凉葱－为你寻找最美图文/音乐/视频</title>
   <meta name="description" content="一个为你的心灵提供栖息之所的轻应用，由langoft.com创建，在这里你能看到很多大家写的文章，诗歌，或其他文学形式，主要采用图文并茂的形式呈现，目前基本上是每日一篇，目的为了让你在这个浮华的世界里找到自己的心灵栖所．">
 
   <link rel="stylesheet" href="/css/style.css">
@@ -110,28 +110,22 @@
             <ul class="post-list">
               
                 <li class="content">
-                    <div class="img"><img src="/images/20160525.jpg" alt=""></div>
+                    <div class="img"><img src="/images/20160527.jpg" alt=""></div>
                     <div class="content-block">
                       	<div class="content-h">
-                        	<p><span class="content-title">我们仨(纪念)</span><span class="content-author"> ———— 凉葱落整理</span></p>
+                        	<p><span class="content-title">夜晚的巴黎＜歌词集＞</span><span class="content-author"> ———— 雅克．普雷维尔</span></p>
                       	</div>
 						<div class="content-box">
-                        	<audio src="http://mp3.9ku.com/mp3/543/542977.mp3" controls="controls" autoplay="true">你的浏览器不支持哦！</audio>
-<p><br />
-<b>我们俩老了</b> <br />
-记得我的埋怨，叫我做了一个长达万里的梦.   <br />
-ps:我想在梦里，能够找到他，就能一同回家，或是在昏暗的车站路口，或是在一连串的死胡同．      <br />
-<b>我们仨失散了</b> <br />
-这是一个＂万里长梦＂．梦境历历如真，醒来依旧如同在梦中…     <br />
-ps:失散了的人的生活就是这样，似乎梦境里寻找．寻找自己的回忆，自己的爱人，亲人．     <br />
-<b>我一个人思念我们仨</b> <br />
-＂世间好物不坚牢，彩云易散琉璃脆＂.家在漫漫时间里只是旅途上的客栈而已，在寻觅归途…   <br />
-ps:如今归途在前方，伴随生活每一出回忆，微笑地回到彼此心中．   <br />
-香残烛烬，微风触幔，仿佛娇嚬是。</p>
+                        	<p>三根火柴一根接一根在黑夜中擦亮   <br />
+第一根为了看看你整个脸   <br />
+第二根为了看看你的眼    <br />
+第三根为了看看你的嘴    <br />
+一片漆黑为了回想这一切   <br />
+一面把你搂在我怀里</p>
 
                         </div>
                       <div class="content-f">
-                        <p class="content-date">日期：May 25, 2016</p>
+                        <p class="content-date">日期：May 27, 2016</p>
                       </div>
                     </div>
                   
@@ -168,7 +162,10 @@ ps:如今归途在前方，伴随生活每一出回忆，微笑地回到彼此�
     <p class="footer-con">@良葱网络&nbsp;&nbsp;&nbsp;&nbsp; <span><a href="http://www.langoft.com" class="fabout">关于</a></span>&nbsp;&nbsp;&nbsp;&nbsp; <span onclick="javascript:void(0);" id="weixin">微信</span></p>
   </footer>
 </body>
-<script type="text/javascript" src="/js/jquery.min.js"></script>
+<!-- <script type="text/javascript" src="/js/jquery.min.js"></script> -->
+<script src="/js/qrcode.js"></script>
+<script src="/js/qart.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 <script type="text/javascript">
   $(document).ready(function(){
     $(".navToggle").click(function(){
@@ -184,6 +181,77 @@ ps:如今归途在前方，伴随生活每一出回忆，微笑地回到彼此�
   });
 </script>
 
+
+<script>
+    $(document).ready(function() {
+        var value = 'https://github.com/kciter/qart.js';
+        var filter = 'threshold';
+        var imagePath = '/images/example.png';
+        var version = 10;
+        var imageSize = 75 + (version * 12) - 24;
+
+        var self = this;
+
+        $('#image img').width(imageSize);
+
+        function makeQR() {
+            var qr = qrcode.QRCode(version, 'H');
+            qr.addData(value);
+            qr.make();
+            document.getElementById('qr').innerHTML = qr.createImgTag(3);
+        }
+
+        function makeQArt() {
+            new QArt({
+                value: value,
+                imagePath: imagePath,
+                filter: filter,
+                version: version
+            }).make(document.getElementById('combine'));
+        }
+
+        function getBase64(file, callback) {
+            var reader = new FileReader();
+            reader.readAsDataURL(file);
+            reader.onload = function () {
+                callback(reader.result);
+            };
+        }
+
+        $('#value').keyup(function() {
+            value = $(this).val();
+            makeQR();
+            makeQArt();
+        });
+
+        $('#version').bind('keyup change click', function() {
+            console.log($('#version').val());
+            version = $('#version').val();
+            imageSize = 75 + (version * 12) - 24;
+            $('#image img').width(imageSize);
+            makeQR();
+            makeQArt();
+        });
+
+        $('#file').change(function() {
+            getBase64(this.files[0], function(base64Img) {
+                var regex = /data:(.*);base64,(.*)/gm;
+                var parts = regex.exec(base64Img);
+                imagePath = parts[0];
+                $('#image img').attr('src', imagePath);
+                makeQArt();
+            });
+        });
+
+        $('input[type=radio]').click(function() {
+            filter = $(this).val();
+            makeQArt();
+        });
+
+        makeQR();
+        makeQArt();
+    });
+</script>
 
   </body>
 

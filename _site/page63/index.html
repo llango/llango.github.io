@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>论痛苦与意志的煎熬－凉葱－为你寻找最美图文/音乐/视频</title>
+  <title>夜行者－凉葱－为你寻找最美图文/音乐/视频</title>
   <meta name="description" content="一个为你的心灵提供栖息之所的轻应用，由langoft.com创建，在这里你能看到很多大家写的文章，诗歌，或其他文学形式，主要采用图文并茂的形式呈现，目前基本上是每日一篇，目的为了让你在这个浮华的世界里找到自己的心灵栖所．">
 
   <link rel="stylesheet" href="/css/style.css">
@@ -110,19 +110,30 @@
             <ul class="post-list">
               
                 <li class="content">
-                    <div class="img"><img src="/images/20160528.jpg" alt=""></div>
+                    <div class="img"><img src="/images/20160609.jpg" alt=""></div>
                     <div class="content-block">
                       	<div class="content-h">
-                        	<p><span class="content-title">论痛苦与意志的煎熬</span><span class="content-author"> ———— 叔本华</span></p>
+                        	<p><span class="content-title">夜行者</span><span class="content-author"> ———— 戴望舒</span></p>
                       	</div>
 						<div class="content-box">
-                        	<p>要了解意志－一切活动的根源，并不是一间困难的事．由意志产生意欲，由意欲产生动机，由动机产生活动．每个人只要闭目静思，就会知道自己的存在原是永无止境的受着意志的支配与奴役的．人受意志的支配与奴役，无时无刻不再忙忙碌碌地视图寻找些什么．每一次寻找的结果，无不发现自己原是与空洞同在，最后不能不承认这个世界的存在原是一大悲剧，而世界的内容却全是痛苦…   <br />
-ps:不知怎么，叔本化的文字无时无刻不流露着一种悲剧与痛苦．这或许跟他的成长环境有关…  等小编好好研究他之后在为大伙呈现一下关于他的人生．他孤独一生，无妻无子甚至无母（20多岁即与母亲决裂，一生最痛恨女人，她是一个写风花雪月在当时颇有明确小说家，同时一个放荡的交际花．），过着孤独，忧郁和愤世嫉俗的生活。叔本华恨世界上的一切女人，他认为女人狡诈，虚伪，没有理性。他说爱情是骗人的，婚姻即坟墓。他还说，只有哲学家的婚姻才可能幸福，而真正的哲学家是不需要结婚的。其实像这些伟大的天才有很多都是孤独一生：如尼采，牛顿，达．芬奇，康德．    <br />
-人的一生可看作是在令人惬意之虚无的寂静中出现的一场毫无意义的骚动时节．　－叔本华</p>
+                        	<p>这里他来了：夜行者！    <br />
+冷清清的街上有沉着的跫音，     <br />
+从黑茫茫的雾，   <br />
+到黑茫茫的雾．</p>
+
+<p>夜的最熟稔的朋友，     <br />
+他知道它的一切琐碎，    <br />
+那么熟稔，在它的熏陶中   <br />
+他染了它一切最古怪的脾气．</p>
+
+<p>夜行者是最古怪的人．    <br />
+你看他走在黑夜里：     <br />
+戴着黑色的毯帽，      <br />
+迈着夜一样静的步子．</p>
 
                         </div>
                       <div class="content-f">
-                        <p class="content-date">日期：May 28, 2016</p>
+                        <p class="content-date">日期：Jun 9, 2016</p>
                       </div>
                     </div>
                   
@@ -159,7 +170,10 @@ ps:不知怎么，叔本化的文字无时无刻不流露着一种悲剧与痛�
     <p class="footer-con">@良葱网络&nbsp;&nbsp;&nbsp;&nbsp; <span><a href="http://www.langoft.com" class="fabout">关于</a></span>&nbsp;&nbsp;&nbsp;&nbsp; <span onclick="javascript:void(0);" id="weixin">微信</span></p>
   </footer>
 </body>
-<script type="text/javascript" src="/js/jquery.min.js"></script>
+<!-- <script type="text/javascript" src="/js/jquery.min.js"></script> -->
+<script src="/js/qrcode.js"></script>
+<script src="/js/qart.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 <script type="text/javascript">
   $(document).ready(function(){
     $(".navToggle").click(function(){
@@ -175,6 +189,77 @@ ps:不知怎么，叔本化的文字无时无刻不流露着一种悲剧与痛�
   });
 </script>
 
+
+<script>
+    $(document).ready(function() {
+        var value = 'https://github.com/kciter/qart.js';
+        var filter = 'threshold';
+        var imagePath = '/images/example.png';
+        var version = 10;
+        var imageSize = 75 + (version * 12) - 24;
+
+        var self = this;
+
+        $('#image img').width(imageSize);
+
+        function makeQR() {
+            var qr = qrcode.QRCode(version, 'H');
+            qr.addData(value);
+            qr.make();
+            document.getElementById('qr').innerHTML = qr.createImgTag(3);
+        }
+
+        function makeQArt() {
+            new QArt({
+                value: value,
+                imagePath: imagePath,
+                filter: filter,
+                version: version
+            }).make(document.getElementById('combine'));
+        }
+
+        function getBase64(file, callback) {
+            var reader = new FileReader();
+            reader.readAsDataURL(file);
+            reader.onload = function () {
+                callback(reader.result);
+            };
+        }
+
+        $('#value').keyup(function() {
+            value = $(this).val();
+            makeQR();
+            makeQArt();
+        });
+
+        $('#version').bind('keyup change click', function() {
+            console.log($('#version').val());
+            version = $('#version').val();
+            imageSize = 75 + (version * 12) - 24;
+            $('#image img').width(imageSize);
+            makeQR();
+            makeQArt();
+        });
+
+        $('#file').change(function() {
+            getBase64(this.files[0], function(base64Img) {
+                var regex = /data:(.*);base64,(.*)/gm;
+                var parts = regex.exec(base64Img);
+                imagePath = parts[0];
+                $('#image img').attr('src', imagePath);
+                makeQArt();
+            });
+        });
+
+        $('input[type=radio]').click(function() {
+            filter = $(this).val();
+            makeQArt();
+        });
+
+        makeQR();
+        makeQArt();
+    });
+</script>
 
   </body>
 

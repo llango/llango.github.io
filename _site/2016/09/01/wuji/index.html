@@ -133,7 +133,10 @@
     <p class="footer-con">@良葱网络&nbsp;&nbsp;&nbsp;&nbsp; <span><a href="http://www.langoft.com" class="fabout">关于</a></span>&nbsp;&nbsp;&nbsp;&nbsp; <span onclick="javascript:void(0);" id="weixin">微信</span></p>
   </footer>
 </body>
-<script type="text/javascript" src="/js/jquery.min.js"></script>
+<!-- <script type="text/javascript" src="/js/jquery.min.js"></script> -->
+<script src="/js/qrcode.js"></script>
+<script src="/js/qart.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 <script type="text/javascript">
   $(document).ready(function(){
     $(".navToggle").click(function(){
@@ -149,6 +152,77 @@
   });
 </script>
 
+
+<script>
+    $(document).ready(function() {
+        var value = 'https://github.com/kciter/qart.js';
+        var filter = 'threshold';
+        var imagePath = '/images/example.png';
+        var version = 10;
+        var imageSize = 75 + (version * 12) - 24;
+
+        var self = this;
+
+        $('#image img').width(imageSize);
+
+        function makeQR() {
+            var qr = qrcode.QRCode(version, 'H');
+            qr.addData(value);
+            qr.make();
+            document.getElementById('qr').innerHTML = qr.createImgTag(3);
+        }
+
+        function makeQArt() {
+            new QArt({
+                value: value,
+                imagePath: imagePath,
+                filter: filter,
+                version: version
+            }).make(document.getElementById('combine'));
+        }
+
+        function getBase64(file, callback) {
+            var reader = new FileReader();
+            reader.readAsDataURL(file);
+            reader.onload = function () {
+                callback(reader.result);
+            };
+        }
+
+        $('#value').keyup(function() {
+            value = $(this).val();
+            makeQR();
+            makeQArt();
+        });
+
+        $('#version').bind('keyup change click', function() {
+            console.log($('#version').val());
+            version = $('#version').val();
+            imageSize = 75 + (version * 12) - 24;
+            $('#image img').width(imageSize);
+            makeQR();
+            makeQArt();
+        });
+
+        $('#file').change(function() {
+            getBase64(this.files[0], function(base64Img) {
+                var regex = /data:(.*);base64,(.*)/gm;
+                var parts = regex.exec(base64Img);
+                imagePath = parts[0];
+                $('#image img').attr('src', imagePath);
+                makeQArt();
+            });
+        });
+
+        $('input[type=radio]').click(function() {
+            filter = $(this).val();
+            makeQArt();
+        });
+
+        makeQR();
+        makeQArt();
+    });
+</script>
 
   </body>
 
