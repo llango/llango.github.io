@@ -5,9 +5,23 @@
     <description>一个为你的心灵提供栖息之所的轻应用，由langoft.com创建，在这里你能看到很多大家写的文章，诗歌，或其他文学形式，主要采用图文并茂的形式呈现，目前基本上是每日一篇，目的为了让你在这个浮华的世界里找到自己的心灵栖所．</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 Mar 2017 13:10:23 +0800</pubDate>
-    <lastBuildDate>Tue, 28 Mar 2017 13:10:23 +0800</lastBuildDate>
+    <pubDate>Fri, 31 Mar 2017 22:28:09 +0800</pubDate>
+    <lastBuildDate>Fri, 31 Mar 2017 22:28:09 +0800</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>六分钟短片，而是你</title>
+        <description>&lt;style type=&quot;text/css&quot;&gt;img{display:none;}&lt;/style&gt;
+
+&lt;iframe frameborder=&quot;0&quot; src=&quot;https://v.qq.com/iframe/player.html?vid=z03257uoa9o&amp;amp;tiny=0&amp;amp;auto=0&quot; allowfullscreen=&quot;&quot; style=&quot;width:100%;min-height:450px&quot;&gt;&lt;/iframe&gt;
+
+</description>
+        <pubDate>Fri, 31 Mar 2017 01:30:18 +0800</pubDate>
+        <link>http://localhost:4000/2017/03/31/musicshige/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/03/31/musicshige/</guid>
+        
+        
+      </item>
     
       <item>
         <title>忧郁的人&lt;曲-琴皇·贝森朵夫&gt;</title>
@@ -257,48 +271,6 @@
         <pubDate>Thu, 09 Feb 2017 01:30:18 +0800</pubDate>
         <link>http://localhost:4000/2017/02/09/musicshige/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/02/09/musicshige/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>明天回家</title>
-        <description>&lt;p&gt;今夜,&lt;br /&gt;
-饱吃了一顿,&lt;br /&gt;
-按里说应很是高兴,&lt;br /&gt;
-毕竟是满桌子肉：龙虾肉，鳄鱼肉，龟肉，牛肉，鸡肉等等,&lt;br /&gt;
-可回到酒店后的内心就像是山间古树下寂寞飘荡的幽灵,&lt;br /&gt;
-在挨度这迟迟光阴.&lt;br /&gt;
-&lt;br /&gt;
-明天是回家的日子,上车的路上：&lt;br /&gt;
-我期待暮天里散着乳黄色的霞光—愿这欺人的美梦,&lt;br /&gt;
-像是初吻,&lt;br /&gt;
-一任它娇红地盖满我脸上.&lt;br /&gt;
-&lt;br /&gt;
-我已疲惫,&lt;br /&gt;
-颓唐地度过了灰色的一年,&lt;br /&gt;
-没有丝毫成就.&lt;br /&gt;
-甚至连走在地上的脚步声都哭紫了，&lt;br /&gt;
-在哀悼它主人的悲戚.&lt;br /&gt;
-那一片片清风缠绵的私语如刺人的锈箭回荡在我的周身,&lt;br /&gt;
-我等待安息…&lt;br /&gt;
-&lt;br /&gt;
-然而,&lt;br /&gt;
-总有一个声音在耳边吟绕,&lt;br /&gt;
-顺着它,&lt;br /&gt;
-仿佛找到了我的家乡，我思念的家乡,我成了过客的家乡.&lt;br /&gt;
-夜里,&lt;br /&gt;
-为什么我眼睛长含着泪水？&lt;br /&gt;
-那是因为我对故土爱的深沉…&lt;br /&gt;
-&lt;br /&gt;
-—-凉葱落
-&lt;!-- &lt;iframe frameborder=&quot;0&quot; src=&quot;//music.163.com/outchain/player?type=1&amp;id=149705&amp;auto=1&amp;height=430&quot; allowfullscreen style=&quot;width:100%;height:600px&quot;&gt;&lt;/iframe&gt; --&gt;&lt;/p&gt;
-&lt;iframe frameborder=&quot;0&quot; src=&quot;//music.163.com/outchain/player?type=0&amp;amp;id=403387549&amp;amp;auto=1&amp;amp;height=430&quot; allowfullscreen=&quot;&quot; style=&quot;width:100%;height:430px&quot;&gt;&lt;/iframe&gt;
-
-</description>
-        <pubDate>Thu, 19 Jan 2017 01:30:18 +0800</pubDate>
-        <link>http://localhost:4000/2017/01/19/musicshige/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/01/19/musicshige/</guid>
         
         
       </item>
