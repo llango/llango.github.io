@@ -5,9 +5,22 @@
     <description>一个为你的心灵提供栖息之所的轻应用，由langoft.com创建，在这里你能看到很多大家写的文章，诗歌，或其他文学形式，主要采用图文并茂的形式呈现，目前基本上是每日一篇，目的为了让你在这个浮华的世界里找到自己的心灵栖所．</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 01 Apr 2017 12:38:02 +0800</pubDate>
-    <lastBuildDate>Sat, 01 Apr 2017 12:38:02 +0800</lastBuildDate>
+    <pubDate>Wed, 19 Apr 2017 21:02:50 +0800</pubDate>
+    <lastBuildDate>Wed, 19 Apr 2017 21:02:50 +0800</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>晚风吹动小夜曲</title>
+        <description>&lt;p&gt;快近一个月没更新了, 不好意思, 听听古典音乐放松放松。(照片以后会尽量用自己拍的照片了)&lt;/p&gt;
+&lt;iframe frameborder=&quot;0&quot; src=&quot;//music.163.com/outchain/player?type=0&amp;amp;id=689637535&amp;amp;auto=1&amp;amp;height=430&quot; style=&quot;width:100%; min-height:450px;&quot;&gt;&lt;/iframe&gt;
+
+</description>
+        <pubDate>Wed, 19 Apr 2017 01:30:18 +0800</pubDate>
+        <link>http://localhost:4000/2017/04/19/musicshige/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/04/19/musicshige/</guid>
+        
+        
+      </item>
     
       <item>
         <title>六分钟短片，而是你</title>
@@ -235,42 +248,6 @@
         <pubDate>Fri, 10 Feb 2017 01:30:18 +0800</pubDate>
         <link>http://localhost:4000/2017/02/10/musicshige/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/02/10/musicshige/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>无聊诗(0)【空灵音乐集(0)】</title>
-        <description>&lt;p&gt;窗外,&lt;br /&gt;
-暖暖地,&lt;br /&gt;
-拂动笑容的夕阳。&lt;br /&gt;
-我的脸上,&lt;br /&gt;
-仿佛间,&lt;br /&gt;
-感受到蠢蠢萌动的春天在欢呼.&lt;br /&gt;
-&lt;br /&gt;
-初见,&lt;br /&gt;
-每一颗在我周遭跳动的心:&lt;br /&gt;
-温馨—忆恋的亲吻,&lt;br /&gt;
-像阵春风触动着我冬天的短梦,&lt;br /&gt;
-梦里是个孤独的少年坐在灯塔上凝注星空.&lt;br /&gt;
-&lt;br /&gt;
-相视,&lt;br /&gt;
-每一次插肩而过,&lt;br /&gt;
-不经意地,&lt;br /&gt;
-走进了眼睛,走进了内心.&lt;br /&gt;
-这偶然,&lt;br /&gt;
-成了记忆里一个个温柔的倩影.&lt;br /&gt;
-&lt;br /&gt;
-暖暖地&lt;br /&gt;
-窗外&lt;br /&gt;
-&lt;br /&gt;
-—-凉葱落&lt;/p&gt;
-&lt;iframe frameborder=&quot;0&quot; src=&quot;//music.163.com/outchain/player?type=1&amp;amp;id=184549&amp;amp;auto=1&amp;amp;height=430&quot; allowfullscreen=&quot;&quot; style=&quot;width:100%;height:430px&quot;&gt;&lt;/iframe&gt;
-
-</description>
-        <pubDate>Thu, 09 Feb 2017 01:30:18 +0800</pubDate>
-        <link>http://localhost:4000/2017/02/09/musicshige/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/02/09/musicshige/</guid>
         
         
       </item>
