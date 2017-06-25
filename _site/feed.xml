@@ -5,9 +5,34 @@
     <description>一个为你的心灵提供栖息之所的轻应用，由langoft.com创建，在这里你能看到很多大家写的文章，诗歌，或其他文学形式，主要采用图文并茂的形式呈现，目前基本上是每日一篇，目的为了让你在这个浮华的世界里找到自己的心灵栖所．</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 22 Jun 2017 18:51:44 +0800</pubDate>
-    <lastBuildDate>Thu, 22 Jun 2017 18:51:44 +0800</lastBuildDate>
+    <pubDate>Sun, 25 Jun 2017 15:51:12 +0800</pubDate>
+    <lastBuildDate>Sun, 25 Jun 2017 15:51:12 +0800</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>美/Omen Score</title>
+        <description>&lt;p&gt;美是雨湿润后的葱山，是芬芳腾起的丛林&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;拂去的薄薄雾霭&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;像似拂去内心淤积的层层烦恼&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;眼前一幕&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;幻梦般地降临&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;带着夏日缤纷的色彩&lt;br /&gt;
+&lt;br /&gt;
+—凉葱落&lt;br /&gt;&lt;/p&gt;
+&lt;iframe frameborder=&quot;0&quot; src=&quot;//music.163.com/outchain/player?type=1&amp;amp;id=134047&amp;amp;auto=1&amp;amp;height=430&quot; style=&quot;width:100%; min-height:400px;&quot;&gt;&lt;/iframe&gt;
+
+</description>
+        <pubDate>Sun, 25 Jun 2017 01:30:18 +0800</pubDate>
+        <link>http://localhost:4000/2017/06/25/musicshige/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/06/25/musicshige/</guid>
+        
+        
+      </item>
     
       <item>
         <title>无奈:写诗(诗)/Your Grace Finds Me(基督音乐-舒心)</title>
@@ -367,20 +392,6 @@
         <pubDate>Wed, 19 Apr 2017 01:30:18 +0800</pubDate>
         <link>http://localhost:4000/2017/04/19/musicshige/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/04/19/musicshige/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>六分钟短片，而是你</title>
-        <description>&lt;style type=&quot;text/css&quot;&gt;img{display:none;}&lt;/style&gt;
-
-&lt;iframe frameborder=&quot;0&quot; src=&quot;https://v.qq.com/iframe/player.html?vid=z03257uoa9o&amp;amp;tiny=0&amp;amp;auto=0&quot; allowfullscreen=&quot;&quot; style=&quot;width:100%;min-height:450px&quot;&gt;&lt;/iframe&gt;
-
-</description>
-        <pubDate>Fri, 31 Mar 2017 01:30:18 +0800</pubDate>
-        <link>http://localhost:4000/2017/03/31/musicshige/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/03/31/musicshige/</guid>
         
         
       </item>
