@@ -5,9 +5,49 @@
     <description>一个为你的心灵提供栖息之所的轻应用，由langoft.com创建，在这里你能看到很多大家写的文章，诗歌，或其他文学形式，主要采用图文并茂的形式呈现，目前基本上是每日一篇，目的为了让你在这个浮华的世界里找到自己的心灵栖所．</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 Jun 2017 22:53:34 +0800</pubDate>
-    <lastBuildDate>Tue, 27 Jun 2017 22:53:34 +0800</lastBuildDate>
-    <generator>Jekyll v3.3.1</generator>
+    <pubDate>Mon, 03 Jul 2017 21:17:27 +0800</pubDate>
+    <lastBuildDate>Mon, 03 Jul 2017 21:17:27 +0800</lastBuildDate>
+    <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>夕阳(诗)/耶鲁大学开放课程-聆听音乐(音乐)</title>
+        <description>&lt;p&gt;阳光&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;如流水&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;如殷红色的彩带&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;倾泻而下&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;在每一块面朝夕阳的土地上&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;—浇灌&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;沁入土壤里簌簌温馨&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;如同朵朵金黄的麦穗&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;在吸吮大地母亲丰满甜美的乳房&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;远望&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;祥和一片&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;我的梦一般&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;—凉葱落&lt;br /&gt;&lt;/p&gt;
+
+&lt;iframe frameborder=&quot;0&quot; src=&quot;//music.163.com/outchain/player?type=0&amp;amp;id=167686195&amp;amp;auto=1&amp;amp;height=430&quot; style=&quot;width:100%; min-height:400px;&quot;&gt;&lt;/iframe&gt;
+
+</description>
+        <pubDate>Mon, 03 Jul 2017 01:30:18 +0800</pubDate>
+        <link>http://localhost:4000/2017/07/03/musipoet/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/07/03/musipoet/</guid>
+        
+        
+      </item>
     
       <item>
         <title>旅行(诗)/ 生命河灵粮堂(舒心,感恩)</title>
@@ -382,44 +422,6 @@
         <pubDate>Fri, 26 May 2017 01:30:18 +0800</pubDate>
         <link>http://localhost:4000/2017/05/26/musicshige/</link>
         <guid isPermaLink="true">http://localhost:4000/2017/05/26/musicshige/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>The Best of Baroque(巴洛克曲)</title>
-        <description>&lt;p&gt;已然是时候&lt;br /&gt;
-春季&lt;br /&gt;
-抛弃我的身影&lt;br /&gt;
-在洋洋洒脱的雨滴下&lt;br /&gt;
-一如风吹过牧场&lt;br /&gt;
-那里&lt;br /&gt;
-芬芳溢流&lt;br /&gt;
-&lt;br /&gt;
-仿佛间&lt;br /&gt;
-无法诉说出&lt;br /&gt;
-这瞬间的永恒&lt;br /&gt;
-黑蒙蒙身影迎风招展&lt;br /&gt;
-在这朦胧的夜晚&lt;br /&gt;
-夜晚在黄兴北路的一角&lt;br /&gt;
-一角在星城长沙&lt;br /&gt;
-长沙是地球的一座城&lt;br /&gt;
-地球是天上的一颗星&lt;br /&gt;
-&lt;br /&gt;
-我在&lt;br /&gt;
-眨眼睛&lt;br /&gt;
-望天空&lt;br /&gt;
-雾濛濛&lt;br /&gt;
-水轻轻&lt;br /&gt;
-岁无情&lt;br /&gt;
-泪已痕&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;iframe frameborder=&quot;0&quot; src=&quot;//music.163.com/outchain/player?type=1&amp;amp;id=2211864&amp;amp;auto=1&amp;amp;height=430&quot; style=&quot;width:100%; min-height:450px;&quot;&gt;&lt;/iframe&gt;
-
-</description>
-        <pubDate>Tue, 23 May 2017 01:30:18 +0800</pubDate>
-        <link>http://localhost:4000/2017/05/23/musicshige/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/05/23/musicshige/</guid>
         
         
       </item>
