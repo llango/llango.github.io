@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "过客(诗)/钢琴曲集"
+author: '凉葱落'
+date:   2017-07-19 01:30:18 +0800
+img: 20170719.jpg
+---
+<h5 style="font-size:12px color:#999;">(图为北京后海/摄于2017/7/16)</h5>
+在出差的时间里,<br>
+
+我是过客,时间的,也是地点的,<br>
+
+不会有艳遇,亦未曾有归人.<br>
+
+独自,独自一个人穿梭,穿梭<br>
+
+在无聊和烦恼的境遇中.<br>
+<br>
+
+茵茵花草世界里<br>
+
+我是过客,<br>
+
+不仅在出差的时间里,亦在人生的道路上.<br>
+
+---凉葱落<br>
+<!---
+----【凉葱落】(写于2015-1-30,来自我之前博客网站:<a href="http://www.chinadream.me" style="color:#999; text-decoration: none;">http://www.chinadream.me</a>)
+<br-->
+<iframe frameborder="0" src="//music.163.com/outchain/player?type=1&id=2061098&auto=1&height=430" style="width:100%; min-height:400px;"></iframe>
