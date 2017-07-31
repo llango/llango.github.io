@@ -3,11 +3,43 @@
   <channel>
     <title>===寻找心灵栖息之所</title>
     <description>一个为你的心灵提供栖息之所的轻应用，由langoft.com创建，在这里你能看到很多大家写的文章，诗歌，或其他文学形式，主要采用图文并茂的形式呈现，目前基本上是每日一篇，目的为了让你在这个浮华的世界里找到自己的心灵栖所．</description>
-    <link>http://llango.com/</link>
-    <atom:link href="http://llango.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 27 Jul 2017 19:11:51 +0800</pubDate>
-    <lastBuildDate>Thu, 27 Jul 2017 19:11:51 +0800</lastBuildDate>
-    <generator>Jekyll v3.0.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 31 Jul 2017 01:57:22 +0000</pubDate>
+    <lastBuildDate>Mon, 31 Jul 2017 01:57:22 +0000</lastBuildDate>
+    <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>凝注湘江(诗)/恋人たち Lovers(专辑-静静的钢琴曲)</title>
+        <description>&lt;h5 style=&quot;font-size:12px;color:#aaa; font-weight:400;&quot;&gt;(图为昨晚一个人坐在湘江边石墩上拍的,使用是SCENCE夜景拍摄模式,有人反应音乐点击播放不了,这是加载的问题,由于调用的是网易云音乐的iframe框架加载会比较慢,所以点击后耐心等待一下,或者多点击几次,不久之后会弄个音乐小app,支持机器人服务模式,支持搜索模式,同时考虑版权问题,会全部使用网易云音乐的api接口操作)&lt;/h5&gt;
+&lt;p&gt;夏夜&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;坐在湘江边石墩上&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;凝注江水&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;微风腼腆地推动清亮的波澜&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;波澜羞涩地拍拥歪斜的石岸&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;石岸沉默地守望着&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;孤独少年内心里&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;一株淡绿的幼芽&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;在顽强地展开叶瓣&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;—凉葱落&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;iframe frameborder=&quot;0&quot; src=&quot;//music.163.com/outchain/player?type=1&amp;amp;id=59736&amp;amp;auto=1&amp;amp;height=430&quot; style=&quot;width:100%; min-height:400px;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Sat, 29 Jul 2017 17:30:18 +0000</pubDate>
+        <link>http://localhost:4000/2017/07/29/musipoet/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/07/29/musipoet/</guid>
+        
+        
+      </item>
     
       <item>
         <title>夜里祈祷(诗)/フルーツバスケット~四季~ (专辑-让人幻想的音乐)</title>
@@ -43,9 +75,9 @@
 &lt;br--&gt;&lt;/p&gt;
 &lt;iframe frameborder=&quot;0&quot; src=&quot;//music.163.com/outchain/player?type=1&amp;amp;id=60528&amp;amp;auto=1&amp;amp;height=430&quot; width=&quot;100%&quot; style=&quot;min-height:450px;&quot;&gt;&lt;/iframe&gt;
 </description>
-        <pubDate>Thu, 27 Jul 2017 01:30:18 +0800</pubDate>
-        <link>http://llango.com/2017/07/27/musipoet/</link>
-        <guid isPermaLink="true">http://llango.com/2017/07/27/musipoet/</guid>
+        <pubDate>Wed, 26 Jul 2017 17:30:18 +0000</pubDate>
+        <link>http://localhost:4000/2017/07/26/musipoet/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/07/26/musipoet/</guid>
         
         
       </item>
@@ -78,9 +110,9 @@
 &lt;br--&gt;&lt;/p&gt;
 &lt;iframe frameborder=&quot;0&quot; src=&quot;//music.163.com/outchain/player?type=1&amp;amp;id=211836&amp;amp;auto=1&amp;amp;height=430&quot; style=&quot;width:100%; min-height:400px;&quot;&gt;&lt;/iframe&gt;
 </description>
-        <pubDate>Sat, 22 Jul 2017 01:30:18 +0800</pubDate>
-        <link>http://llango.com/2017/07/22/musipoet/</link>
-        <guid isPermaLink="true">http://llango.com/2017/07/22/musipoet/</guid>
+        <pubDate>Fri, 21 Jul 2017 17:30:18 +0000</pubDate>
+        <link>http://localhost:4000/2017/07/21/musipoet/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/07/21/musipoet/</guid>
         
         
       </item>
@@ -111,9 +143,9 @@
 &lt;br--&gt;&lt;/p&gt;
 &lt;iframe frameborder=&quot;0&quot; src=&quot;//music.163.com/outchain/player?type=1&amp;amp;id=162571&amp;amp;auto=1&amp;amp;height=430&quot; style=&quot;width:100%; min-height:400px;&quot;&gt;&lt;/iframe&gt;
 </description>
-        <pubDate>Fri, 21 Jul 2017 01:30:18 +0800</pubDate>
-        <link>http://llango.com/2017/07/21/musipoet/</link>
-        <guid isPermaLink="true">http://llango.com/2017/07/21/musipoet/</guid>
+        <pubDate>Thu, 20 Jul 2017 17:30:18 +0000</pubDate>
+        <link>http://localhost:4000/2017/07/20/musipoet/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/07/20/musipoet/</guid>
         
         
       </item>
@@ -144,9 +176,9 @@
 &lt;br--&gt;&lt;/p&gt;
 &lt;iframe frameborder=&quot;0&quot; src=&quot;//music.163.com/outchain/player?type=1&amp;amp;id=2061098&amp;amp;auto=1&amp;amp;height=430&quot; style=&quot;width:100%; min-height:400px;&quot;&gt;&lt;/iframe&gt;
 </description>
-        <pubDate>Wed, 19 Jul 2017 01:30:18 +0800</pubDate>
-        <link>http://llango.com/2017/07/19/musipoet/</link>
-        <guid isPermaLink="true">http://llango.com/2017/07/19/musipoet/</guid>
+        <pubDate>Tue, 18 Jul 2017 17:30:18 +0000</pubDate>
+        <link>http://localhost:4000/2017/07/18/musipoet/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/07/18/musipoet/</guid>
         
         
       </item>
@@ -187,9 +219,9 @@
 &lt;br /&gt;&lt;/p&gt;
 &lt;iframe frameborder=&quot;0&quot; src=&quot;//music.163.com/outchain/player?type=1&amp;amp;id=2068997&amp;amp;auto=1&amp;amp;height=430&quot; style=&quot;width:100%; min-height:400px;&quot;&gt;&lt;/iframe&gt;
 </description>
-        <pubDate>Tue, 11 Jul 2017 01:30:18 +0800</pubDate>
-        <link>http://llango.com/2017/07/11/musipoet/</link>
-        <guid isPermaLink="true">http://llango.com/2017/07/11/musipoet/</guid>
+        <pubDate>Mon, 10 Jul 2017 17:30:18 +0000</pubDate>
+        <link>http://localhost:4000/2017/07/10/musipoet/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/07/10/musipoet/</guid>
         
         
       </item>
@@ -236,9 +268,9 @@
 &lt;p&gt;弄了一台单反相机, 日前还在学习摄影技术, 下次起我使用的图片将会使用我自己拍的照片.同时我也弄了一个很纯静的图片应用，一直没上线，一呢碍于自己没什么钱买服务器（图片服务器相对要贵很多), 二呢最近没什么时间,说白了不是没有什么时间，而是我这个人做事没有什么恒心毅力，很多情况下都是半途而废，太懒了. 不过我还是会慢慢地弄好的，不为别的，就为自己的内心世界点缀一些色彩…&lt;/p&gt;
 &lt;iframe frameborder=&quot;0&quot; src=&quot;//music.163.com/outchain/player?type=1&amp;amp;id=1576653&amp;amp;auto=1&amp;amp;height=430&quot; style=&quot;width:100%; min-height:400px;&quot;&gt;&lt;/iframe&gt;
 </description>
-        <pubDate>Sat, 08 Jul 2017 01:30:18 +0800</pubDate>
-        <link>http://llango.com/2017/07/08/musipoet/</link>
-        <guid isPermaLink="true">http://llango.com/2017/07/08/musipoet/</guid>
+        <pubDate>Fri, 07 Jul 2017 17:30:18 +0000</pubDate>
+        <link>http://localhost:4000/2017/07/07/musipoet/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/07/07/musipoet/</guid>
         
         
       </item>
@@ -276,9 +308,9 @@
 &lt;iframe frameborder=&quot;0&quot; src=&quot;//music.163.com/outchain/player?type=0&amp;amp;id=167686195&amp;amp;auto=1&amp;amp;height=430&quot; style=&quot;width:100%; min-height:400px;&quot;&gt;&lt;/iframe&gt;
 
 </description>
-        <pubDate>Mon, 03 Jul 2017 01:30:18 +0800</pubDate>
-        <link>http://llango.com/2017/07/03/musipoet/</link>
-        <guid isPermaLink="true">http://llango.com/2017/07/03/musipoet/</guid>
+        <pubDate>Sun, 02 Jul 2017 17:30:18 +0000</pubDate>
+        <link>http://localhost:4000/2017/07/02/musipoet/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/07/02/musipoet/</guid>
         
         
       </item>
@@ -317,9 +349,9 @@
 &lt;iframe frameborder=&quot;0&quot; src=&quot;//music.163.com/outchain/player?type=1&amp;amp;id=37702&amp;amp;auto=1&amp;amp;height=430&quot; style=&quot;width:100%; min-height:400px;&quot;&gt;&lt;/iframe&gt;
 
 </description>
-        <pubDate>Tue, 27 Jun 2017 01:30:18 +0800</pubDate>
-        <link>http://llango.com/2017/06/27/musicshige/</link>
-        <guid isPermaLink="true">http://llango.com/2017/06/27/musicshige/</guid>
+        <pubDate>Mon, 26 Jun 2017 17:30:18 +0000</pubDate>
+        <link>http://localhost:4000/2017/06/26/musicshige/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/06/26/musicshige/</guid>
         
         
       </item>
@@ -342,133 +374,9 @@
 &lt;iframe frameborder=&quot;0&quot; src=&quot;//music.163.com/outchain/player?type=1&amp;amp;id=134047&amp;amp;auto=1&amp;amp;height=430&quot; style=&quot;width:100%; min-height:400px;&quot;&gt;&lt;/iframe&gt;
 
 </description>
-        <pubDate>Sun, 25 Jun 2017 01:30:18 +0800</pubDate>
-        <link>http://llango.com/2017/06/25/musicshige/</link>
-        <guid isPermaLink="true">http://llango.com/2017/06/25/musicshige/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>无奈:写诗(诗)/Your Grace Finds Me(基督音乐-舒心)</title>
-        <description>&lt;p&gt;东东西西，&lt;br /&gt;
-南南北北，&lt;br /&gt;
-怎一个睡字了得，&lt;br /&gt;
-无奈：写诗&lt;br /&gt;
-&lt;br /&gt;
-（0）&lt;br /&gt;
-深夜冥思春日何处游，&lt;br /&gt;
-遥想故居桃花吹满头。&lt;br /&gt;
-借问网上谁家风流年少，&lt;br /&gt;
-此时有，&lt;br /&gt;
-逢倩欲语低头笑，&lt;br /&gt;
-西窗共剪烛。&lt;br /&gt;
-&lt;br /&gt;
-与妾佳期似水悠悠，&lt;br /&gt;
-太学却花红易衰如郎意，&lt;br /&gt;
-七一便是离愁日，&lt;br /&gt;
-侣侬别是一番滋味在心头。&lt;br /&gt;
-纵被春秋无情弃，不能哭，不能愁。&lt;br /&gt;
-&lt;br /&gt;
-（1）&lt;br /&gt;
-啪啪击响&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;啪啪击响&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;圆钟、高跟鞋、我孤寂的心&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;混沌&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;泪水烫红了眼睛&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;低垂的头捧着幻想在走动&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;紧随圆圆可爱的背影&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;真怕她一回眸&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;绯红&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;窗外整片天空&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;钟、鞋——如我跳动的心&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;（2）&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;仿佛来自窗外&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;一声呼唤&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;定眼一望&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;隐隐一疏影在地板上拂动&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;幽幽白风像极了裙&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;凝神注入&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;丝缕的光芒穿透着她的心&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;苍白得很&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;脑后一只苍蝇在嗡嗡&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;我潜意识伸出手，轻轻一拍&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;仿佛一帘幽影逃出了幻梦&lt;br /&gt;
-&lt;br /&gt;
-（3）&lt;br /&gt;
-匆匆&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;睡不着觉，你如花絮，如记忆&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;红色天空里飘零&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;泪水流星般滴落在湖面上&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;染红的雪花溅起&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;辉撒着蜜吻，嘘，一阵清风&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;揉碎了树颈上红宝石闪烁点点&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;唦唦声响，似幻梦&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;你坠进了湖中&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;匆匆&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;（4）
-有时心里茫然、 惶惑&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;人生因没有信仰让我时刻煎熬&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;深受压抑&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;未来并非我心中幻想有可供选择的路那样&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;我惧怕、忧郁&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;幽灵、魔鬼以及上帝&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;一切只是记忆，在我游戏的人生里&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;当我突然发现自己的时刻&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;上帝仅仅是一种存在&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;犹如我&lt;br /&gt;
-&lt;br /&gt;
-—凉葱落&lt;br /&gt;
-—写于2012.4.1&lt;br /&gt;
-—来自我之前博客网站&lt;br /&gt;
-     —  &lt;a href=&quot;http://www.chinadream.me&quot; style=&quot;color:#009168&quot;&gt;www.chinadream.me&lt;/a&gt;&lt;/p&gt;
-&lt;iframe frameborder=&quot;0&quot; src=&quot;//music.163.com/outchain/player?type=1&amp;amp;id=2674017&amp;amp;auto=1&amp;amp;height=430&quot; style=&quot;width:100%; min-height:400px;&quot;&gt;&lt;/iframe&gt;
-
-</description>
-        <pubDate>Thu, 22 Jun 2017 01:30:18 +0800</pubDate>
-        <link>http://llango.com/2017/06/22/musicshige/</link>
-        <guid isPermaLink="true">http://llango.com/2017/06/22/musicshige/</guid>
+        <pubDate>Sat, 24 Jun 2017 17:30:18 +0000</pubDate>
+        <link>http://localhost:4000/2017/06/24/musicshige/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/06/24/musicshige/</guid>
         
         
       </item>

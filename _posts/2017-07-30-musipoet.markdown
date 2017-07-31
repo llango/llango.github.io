@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "凝注湘江(诗)/恋人たち Lovers(专辑-静静的钢琴曲)"
+author: '凉葱落'
+date:   2017-07-30 01:30:18 +0800
+img: 20170730.jpg
+---
+<h5 style="font-size:12px;color:#aaa; font-weight:400;">(图为昨晚一个人坐在湘江边石墩上拍的,使用是SCENCE夜景拍摄模式,有人反应音乐点击播放不了,这是加载的问题,由于调用的是网易云音乐的iframe框架加载会比较慢,所以点击后耐心等待一下,或者多点击几次,不久之后会弄个音乐小app,支持机器人服务模式,支持搜索模式,同时考虑版权问题,会全部使用网易云音乐的api接口操作)</h5>
+夏夜<br>
+
+坐在湘江边石墩上<br>
+
+凝注江水<br>
+
+微风腼腆地推动清亮的波澜<br>
+
+波澜羞涩地拍拥歪斜的石岸<br>
+
+石岸沉默地守望着<br>
+
+孤独少年内心里<br>
+
+一株淡绿的幼芽<br>
+
+在顽强地展开叶瓣<br>
+
+---凉葱落<br>
+<br>
+<iframe frameborder="0" src="//music.163.com/outchain/player?type=1&id=59736&auto=1&height=430" style="width:100%; min-height:400px;"></iframe>
