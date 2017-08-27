@@ -3,11 +3,59 @@
   <channel>
     <title>===寻找心灵栖息之所</title>
     <description>一个为你的心灵提供栖息之所的轻应用，由langoft.com创建，在这里你能看到很多大家写的文章，诗歌，或其他文学形式，主要采用图文并茂的形式呈现，目前基本上是每日一篇，目的为了让你在这个浮华的世界里找到自己的心灵栖所．</description>
-    <link>http://llango.com/</link>
-    <atom:link href="http://llango.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 10 Aug 2017 18:52:40 +0800</pubDate>
-    <lastBuildDate>Thu, 10 Aug 2017 18:52:40 +0800</lastBuildDate>
-    <generator>Jekyll v3.0.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 27 Aug 2017 10:55:34 +0000</pubDate>
+    <lastBuildDate>Sun, 27 Aug 2017 10:55:34 +0000</lastBuildDate>
+    <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>被遗忘的布娃娃(诗)/Thunderstorm: A Surround Sound Experiance(专辑)</title>
+        <description>&lt;h5 style=&quot;font-size:12px;color:#aaa; font-weight:400;&quot;&gt;(图为这两周出差于北京后台酒吧一条街拍的, 诗为今早起来蹲在窗前刷牙时根据看到的情景而写的)&lt;/h5&gt;
+
+&lt;p&gt;窗前&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;睡眼朦胧地看到&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;一台笨拙有力的挖土机&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;嗤嗤地&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;推到了&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;一座有着几十年历史的工厂&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;在工厂靠水池的角落里&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;安放着&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;两个泛着破旧的布娃娃&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;彼此&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;肩并肩地&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;立着&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;旭日彩光下&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;仿佛一对恋人&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;静静地&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;回忆曾经的美好&lt;br /&gt;&lt;/p&gt;
+&lt;iframe frameborder=&quot;0&quot; src=&quot;//music.163.com/outchain/player?type=1&amp;amp;id=126288&amp;amp;auto=1&amp;amp;height=430&quot; style=&quot;width:100%; min-height:400px;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Sat, 26 Aug 2017 17:30:18 +0000</pubDate>
+        <link>http://localhost:4000/2017/08/26/musipoet/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/08/26/musipoet/</guid>
+        
+        
+      </item>
     
       <item>
         <title>坠梦之歌(诗)/Mystic Spirits(专辑-空灵感)</title>
@@ -32,9 +80,9 @@
 &lt;p&gt;—凉葱落&lt;br /&gt;&lt;/p&gt;
 &lt;iframe frameborder=&quot;0&quot; src=&quot;//music.163.com/outchain/player?type=1&amp;amp;id=507295&amp;amp;auto=1&amp;amp;height=430&quot; style=&quot;width:100%; min-height:400px;&quot;&gt;&lt;/iframe&gt;
 </description>
-        <pubDate>Thu, 10 Aug 2017 01:30:18 +0800</pubDate>
-        <link>http://llango.com/2017/08/10/musipoet/</link>
-        <guid isPermaLink="true">http://llango.com/2017/08/10/musipoet/</guid>
+        <pubDate>Wed, 09 Aug 2017 17:30:18 +0000</pubDate>
+        <link>http://localhost:4000/2017/08/09/musipoet/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/08/09/musipoet/</guid>
         
         
       </item>
@@ -62,9 +110,9 @@
 &lt;br /&gt;&lt;/p&gt;
 &lt;iframe frameborder=&quot;0&quot; src=&quot;//music.163.com/outchain/player?type=1&amp;amp;id=2809099&amp;amp;auto=1&amp;amp;height=430&quot; style=&quot;width:100%; min-height:400px;&quot;&gt;&lt;/iframe&gt;
 </description>
-        <pubDate>Thu, 03 Aug 2017 01:30:18 +0800</pubDate>
-        <link>http://llango.com/2017/08/03/musipoet/</link>
-        <guid isPermaLink="true">http://llango.com/2017/08/03/musipoet/</guid>
+        <pubDate>Wed, 02 Aug 2017 17:30:18 +0000</pubDate>
+        <link>http://localhost:4000/2017/08/02/musipoet/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/08/02/musipoet/</guid>
         
         
       </item>
@@ -94,9 +142,9 @@
 &lt;br /&gt;&lt;/p&gt;
 &lt;iframe frameborder=&quot;0&quot; src=&quot;//music.163.com/outchain/player?type=1&amp;amp;id=59736&amp;amp;auto=1&amp;amp;height=430&quot; style=&quot;width:100%; min-height:400px;&quot;&gt;&lt;/iframe&gt;
 </description>
-        <pubDate>Sun, 30 Jul 2017 01:30:18 +0800</pubDate>
-        <link>http://llango.com/2017/07/30/musipoet/</link>
-        <guid isPermaLink="true">http://llango.com/2017/07/30/musipoet/</guid>
+        <pubDate>Sat, 29 Jul 2017 17:30:18 +0000</pubDate>
+        <link>http://localhost:4000/2017/07/29/musipoet/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/07/29/musipoet/</guid>
         
         
       </item>
@@ -135,9 +183,9 @@
 &lt;br--&gt;&lt;/p&gt;
 &lt;iframe frameborder=&quot;0&quot; src=&quot;//music.163.com/outchain/player?type=1&amp;amp;id=60528&amp;amp;auto=1&amp;amp;height=430&quot; width=&quot;100%&quot; style=&quot;min-height:450px;&quot;&gt;&lt;/iframe&gt;
 </description>
-        <pubDate>Thu, 27 Jul 2017 01:30:18 +0800</pubDate>
-        <link>http://llango.com/2017/07/27/musipoet/</link>
-        <guid isPermaLink="true">http://llango.com/2017/07/27/musipoet/</guid>
+        <pubDate>Wed, 26 Jul 2017 17:30:18 +0000</pubDate>
+        <link>http://localhost:4000/2017/07/26/musipoet/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/07/26/musipoet/</guid>
         
         
       </item>
@@ -170,9 +218,9 @@
 &lt;br--&gt;&lt;/p&gt;
 &lt;iframe frameborder=&quot;0&quot; src=&quot;//music.163.com/outchain/player?type=1&amp;amp;id=211836&amp;amp;auto=1&amp;amp;height=430&quot; style=&quot;width:100%; min-height:400px;&quot;&gt;&lt;/iframe&gt;
 </description>
-        <pubDate>Sat, 22 Jul 2017 01:30:18 +0800</pubDate>
-        <link>http://llango.com/2017/07/22/musipoet/</link>
-        <guid isPermaLink="true">http://llango.com/2017/07/22/musipoet/</guid>
+        <pubDate>Fri, 21 Jul 2017 17:30:18 +0000</pubDate>
+        <link>http://localhost:4000/2017/07/21/musipoet/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/07/21/musipoet/</guid>
         
         
       </item>
@@ -203,9 +251,9 @@
 &lt;br--&gt;&lt;/p&gt;
 &lt;iframe frameborder=&quot;0&quot; src=&quot;//music.163.com/outchain/player?type=1&amp;amp;id=162571&amp;amp;auto=1&amp;amp;height=430&quot; style=&quot;width:100%; min-height:400px;&quot;&gt;&lt;/iframe&gt;
 </description>
-        <pubDate>Fri, 21 Jul 2017 01:30:18 +0800</pubDate>
-        <link>http://llango.com/2017/07/21/musipoet/</link>
-        <guid isPermaLink="true">http://llango.com/2017/07/21/musipoet/</guid>
+        <pubDate>Thu, 20 Jul 2017 17:30:18 +0000</pubDate>
+        <link>http://localhost:4000/2017/07/20/musipoet/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/07/20/musipoet/</guid>
         
         
       </item>
@@ -236,9 +284,9 @@
 &lt;br--&gt;&lt;/p&gt;
 &lt;iframe frameborder=&quot;0&quot; src=&quot;//music.163.com/outchain/player?type=1&amp;amp;id=2061098&amp;amp;auto=1&amp;amp;height=430&quot; style=&quot;width:100%; min-height:400px;&quot;&gt;&lt;/iframe&gt;
 </description>
-        <pubDate>Wed, 19 Jul 2017 01:30:18 +0800</pubDate>
-        <link>http://llango.com/2017/07/19/musipoet/</link>
-        <guid isPermaLink="true">http://llango.com/2017/07/19/musipoet/</guid>
+        <pubDate>Tue, 18 Jul 2017 17:30:18 +0000</pubDate>
+        <link>http://localhost:4000/2017/07/18/musipoet/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/07/18/musipoet/</guid>
         
         
       </item>
@@ -279,9 +327,9 @@
 &lt;br /&gt;&lt;/p&gt;
 &lt;iframe frameborder=&quot;0&quot; src=&quot;//music.163.com/outchain/player?type=1&amp;amp;id=2068997&amp;amp;auto=1&amp;amp;height=430&quot; style=&quot;width:100%; min-height:400px;&quot;&gt;&lt;/iframe&gt;
 </description>
-        <pubDate>Tue, 11 Jul 2017 01:30:18 +0800</pubDate>
-        <link>http://llango.com/2017/07/11/musipoet/</link>
-        <guid isPermaLink="true">http://llango.com/2017/07/11/musipoet/</guid>
+        <pubDate>Mon, 10 Jul 2017 17:30:18 +0000</pubDate>
+        <link>http://localhost:4000/2017/07/10/musipoet/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/07/10/musipoet/</guid>
         
         
       </item>
@@ -328,49 +376,9 @@
 &lt;p&gt;弄了一台单反相机, 日前还在学习摄影技术, 下次起我使用的图片将会使用我自己拍的照片.同时我也弄了一个很纯静的图片应用，一直没上线，一呢碍于自己没什么钱买服务器（图片服务器相对要贵很多), 二呢最近没什么时间,说白了不是没有什么时间，而是我这个人做事没有什么恒心毅力，很多情况下都是半途而废，太懒了. 不过我还是会慢慢地弄好的，不为别的，就为自己的内心世界点缀一些色彩…&lt;/p&gt;
 &lt;iframe frameborder=&quot;0&quot; src=&quot;//music.163.com/outchain/player?type=1&amp;amp;id=1576653&amp;amp;auto=1&amp;amp;height=430&quot; style=&quot;width:100%; min-height:400px;&quot;&gt;&lt;/iframe&gt;
 </description>
-        <pubDate>Sat, 08 Jul 2017 01:30:18 +0800</pubDate>
-        <link>http://llango.com/2017/07/08/musipoet/</link>
-        <guid isPermaLink="true">http://llango.com/2017/07/08/musipoet/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>夕阳(诗)/耶鲁大学开放课程-聆听音乐(音乐)</title>
-        <description>&lt;p&gt;阳光&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;如流水&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;如殷红色的彩带&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;倾泻而下&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;在每一块面朝夕阳的土地上&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;—浇灌&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;沁入土壤里簌簌温馨&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;如同朵朵金黄的麦穗&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;在吸吮大地母亲丰满甜美的乳房&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;远望&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;祥和一片&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;我的梦一般&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;—凉葱落&lt;br /&gt;&lt;/p&gt;
-
-&lt;iframe frameborder=&quot;0&quot; src=&quot;//music.163.com/outchain/player?type=0&amp;amp;id=167686195&amp;amp;auto=1&amp;amp;height=430&quot; style=&quot;width:100%; min-height:400px;&quot;&gt;&lt;/iframe&gt;
-
-</description>
-        <pubDate>Mon, 03 Jul 2017 01:30:18 +0800</pubDate>
-        <link>http://llango.com/2017/07/03/musipoet/</link>
-        <guid isPermaLink="true">http://llango.com/2017/07/03/musipoet/</guid>
+        <pubDate>Fri, 07 Jul 2017 17:30:18 +0000</pubDate>
+        <link>http://localhost:4000/2017/07/07/musipoet/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/07/07/musipoet/</guid>
         
         
       </item>
