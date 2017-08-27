@@ -5,8 +5,8 @@
     <description>一个为你的心灵提供栖息之所的轻应用，由langoft.com创建，在这里你能看到很多大家写的文章，诗歌，或其他文学形式，主要采用图文并茂的形式呈现，目前基本上是每日一篇，目的为了让你在这个浮华的世界里找到自己的心灵栖所．</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 27 Aug 2017 10:55:34 +0000</pubDate>
-    <lastBuildDate>Sun, 27 Aug 2017 10:55:34 +0000</lastBuildDate>
+    <pubDate>Sun, 27 Aug 2017 12:35:17 +0000</pubDate>
+    <lastBuildDate>Sun, 27 Aug 2017 12:35:17 +0000</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
