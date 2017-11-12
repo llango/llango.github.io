@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "生活的足迹/日本轻音乐－舒缓(专辑)"
+author: '凉葱落'
+date:   2017-11-12 01:30:18 +0800
+img: 20171112.jpg
+---
+<h5 style="font-size:12px;color:#aaa; font-weight:400;">(昨晚晚上散步拍的)</h5>
+
+除了寂静<br>
+生活的足迹<br>
+总伴着感伤<br>
+灰白灰白的<br>
+雪飘落的样子<br>
+如霓虹灯注视下的目光<br>
+
+
+
+
+<iframe frameborder="0" src="//music.163.com/outchain/player?type=1&id=59747&auto=1&height=430" style="width:100%; min-height:430px;"></iframe>
