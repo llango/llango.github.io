@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "哪一个是真的(波德莱尔)/Great God Who Saves(专辑)"
+title:  "哪一个是真的(波德莱尔)/去拯救的伟大上帝(专辑)"
 author: '波德莱尔'
 date:   2017-12-24 01:30:18 +0800
 img: 20171224.jpg
