@@ -5,7 +5,7 @@ author: '汪国真'
 date:   2018-06-08 00:01:18 +0800
 img: 20180608.jpg
 ---
-<h5 style="color:#999; font-size:12px;font-weight:300">图为刚刚拍的。计划着手把中国诗歌库网进行全新的设计，争取弄出一个充满诗意盎然而又体验怡人的网站来。基于个人的精力有限，如果你有好的设计或创意，或者你知道怎么写python代码，主要是django和flask，可以跟我联系,邮箱<a href="mailto:admin@akaros.cn">admin@akaros.cn</a>。我相信这将是一份有意义的事情，在人生征程里无不让自己的内心有丝惬意。</h5>
+<h5 style="color:#999; font-size:12px;font-weight:300">图为刚刚拍的。计划着手把中国诗歌库网进行全新的设计，争取弄出一个充满诗意盎然而又体验怡人的网站来。基于个人的精力有限，如果你有好的设计或创意，或者你知道怎么写python代码，主要是django和flask，可以跟我联系,邮箱<a href="mailto:admin@akaros.cn">admin@akaros.cn</a>。我相信这将是一份有意义的事情，在人生征程里无不让自己的内心有丝惬意， 我期待你的加入...</h5>
 <br>
 
 给我一个微笑就够了<br>
