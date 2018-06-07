@@ -24,5 +24,4 @@ img: 20180608.jpg
 
 汪国真（1956-2015），男，1956年6月22日生于北京，当代诗人、书画家。1982年毕业于暨南大学中文系。 [1]  1984年发表第一首比较有影响的诗《我微笑着走向生活》。1985年起将业余时间集中于诗歌创作，期间一首打油诗《学校一天》刊登在《中国青年报》上。1990年开始，汪国真担任《辽宁青年》、《中国青年》、《女友》的专栏撰稿人，掀起一股“汪国真热”。
 
-<iframe frameborder="0" width="100%" min-height="" src="https://v.qq.com/iframe/player.html?vid=p0357hjqui8&tiny=0&auto=0" allowfullscreen></iframe>
-<embed src="https://v.qq.com/iframe/player.html?vid=p0357hjqui8&tiny=0&auto=0" allowFullScreen="true" quality="high" width="100%" height="auto" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+<iframe frameborder="0" width="100%" style="min-height:320px; width:100%; border:none;" src="https://v.qq.com/iframe/player.html?vid=p0357hjqui8&tiny=0&auto=0" allowfullscreen></iframe>
