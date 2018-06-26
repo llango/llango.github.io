@@ -30,4 +30,4 @@ img: 20180624.jpg
 [凉葱落写于2018年6月26日晚上]
 
 {注意：由于音乐调用的是网易云音乐的iframe框架，因此加载慢，多点几次，慢慢点，耐心等等就可以播放了}
-<iframe frameborder="0" src="//music.163.com/outchain/player?type=0&id=2288886649&auto=1&height=430" allowfullscreen style="width:100%;height:400px"></iframe>
+<iframe frameborder="0" src="//music.163.com/outchain/player?type=0&id=2144181425&auto=1&height=430" allowfullscreen style="width:100%;height:400px"></iframe>
