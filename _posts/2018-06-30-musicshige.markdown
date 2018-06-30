@@ -5,7 +5,7 @@ author: '凉葱落'
 date:   2018-06-30 01:30:18 +0800
 img: 20180630.jpg
 ---
-<h5 style="color:#999; font-size:12px;font-weight:300">图不是我拍的，而其效果是我想拍的，下次我会放一张拍出这种效果的照片。图来自我常逛的图片平台<a href="https://www.pexels.com/">pexels</a>。凉葱的每周一更已经坚持两年多了，想必我也写了不少东西，拍不少照片，这就当写给别人的日记吧，我会慢慢地坚持下去。</h5>
+<h5 style="color:#999; font-size:12px;font-weight:300">图不是我拍的，而其效果是我想拍的，下次我会放一张拍出这种效果的照片。图来自我常逛的图片平台<a href="https://www.pexels.com/" style="text-decoration:none; color:#666;">pexels</a>。凉葱的每周一更已经坚持两年多了，想必我也写了不少东西，拍不少照片，这就当写给别人的日记吧，我会慢慢地坚持下去。</h5>
 <br>
 <br>
 
