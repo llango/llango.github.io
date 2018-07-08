@@ -2,8 +2,8 @@
 layout: post
 title:  "雨夜(凉葱落) /基督音乐-赞美神(唯美)"
 author: '凉葱落'
-date:   2018-06-30 01:30:18 +0800
-img: 20180630.jpg
+date:   2018-07-08 01:30:18 +0800
+img: 20180708.jpg
 ---
 <h5 style="color:#999; font-size:12px;font-weight:300">许久没出去拍照了，所以没图片放，只能在我常逛的图片平台<a href="https://www.pexels.com/" style="text-decoration:none; color:#666;">pexels</a>上下载了。日子一天又一天的过去，我的生活节奏似乎一直在奏响“哆唻咪”, 内心丝毫惊不起任何的波澜，正准备着学学钢琴陶冶自己，期待明年的今天能够奏响自己的乐章，美妙得像阵春风拂动我的内心。</h5>
 <br>
