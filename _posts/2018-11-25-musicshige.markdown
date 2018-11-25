@@ -40,4 +40,4 @@ img: 20181125.jpg
 
 
 凉葱落写于2018-11-25<br>
-<iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=e076485s2uv" allowfullscreen style="width:100%;height:400px"></iframe>
+<iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=e076485s2uv" allowfullscreen style="width:100%;max-height:400px; height:360px; min-height:320px"></iframe>
