@@ -36,11 +36,8 @@ img: 20181125.jpg
 舞动着音符似的梦<br>
 在我的眼前<br>
 在她的窗外<br>
-<iframe frameborder="0" src="https://vodkgeyttp8c.vod.126.net/vodkgeyttp8/j8iH4rDM_1681299642_shd.mp4?wsSecret=77fa462213bf31d61379a6360f7a360d&amp;wsTime=1543144670" allowfullscreen style="width:100%;height:400px"></iframe>
+
 
 
 凉葱落写于2018-11-25<br>
-<video controls="controls" width="100%">
-  <source src="https://vodkgeyttp8c.vod.126.net/vodkgeyttp8/j8iH4rDM_1681299642_shd.mp4?wsSecret=77fa462213bf31d61379a6360f7a360d&amp;wsTime=1543144670" type="video/mp4">
-你的浏览器不知道该视频的播放。
-</video>
+<iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=e076485s2uv" allowfullscreen style="width:100%;height:400px"></iframe>
