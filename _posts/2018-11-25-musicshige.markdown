@@ -39,5 +39,7 @@ img: 20181125.jpg
 
 
 凉葱落写于2018-11-25<br>
-
-<video class="media" style="width:100%;height:auto;" src="https://vodkgeyttp8c.vod.126.net/vodkgeyttp8/j8iH4rDM_1681299642_shd.mp4?wsSecret=77fa462213bf31d61379a6360f7a360d&amp;wsTime=1543144670"></video>
+<video controls="controls" width="100%">
+  <source src="https://vodkgeyttp8c.vod.126.net/vodkgeyttp8/j8iH4rDM_1681299642_shd.mp4?wsSecret=77fa462213bf31d61379a6360f7a360d&amp;wsTime=1543144670" type="video/mp4">
+你的浏览器不知道该视频的播放。
+</video>
