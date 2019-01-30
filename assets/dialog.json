@@ -147,7 +147,7 @@
         "id": "0014",
         "details": [
             ["点击<a href='http://www.llango.com'>链接</a>便可访问", "当然我也写了一本书", "你也可以买着看看试试，京东当当都有。",
-                "<img src='img/book.jpg'>"]
+                "<img src='images/book.jpg'>"]
         ]
     }, {
         "id": "0015",
@@ -181,7 +181,7 @@
     }, {
         "id": "0018",
         "details": [
-            ["嘘……", "<img src='img/xiaoluo.jpg'>"]
+            ["嘘……", "<img src='images/xiaoluo.jpg'>"]
         ],
         "responses": [{
             "content": "唉，很好奇怎样的人能俘获小罗的芳心啊~~",
@@ -294,11 +294,11 @@
     }, {
         "id": "0028",
         "details": [
-            ["<img src='img/photo1.jpg'>", "长沙岳麓山上拍的",
-              "<img src='img/photo2.jpg'>", "楼顶拍的",
-                "<img src='img/photo3.jpg'>", "浏阳河边上拍的",
-            "<img src='img/photo4.jpg'>", "一次爬山的时候自拍的",
-            "<img src='img/photo5.jpg'>", "长沙的夜景"]
+            ["<img src='images/photo1.jpg'>", "长沙岳麓山上拍的",
+              "<img src='images/photo2.jpg'>", "楼顶拍的",
+                "<img src='images/photo3.jpg'>", "浏阳河边上拍的",
+            "<img src='images/photo4.jpg'>", "一次爬山的时候自拍的",
+            "<img src='images/photo5.jpg'>", "长沙的夜景"]
         ],
         "responses": [{
             "content": "这些拍的不粗哦",
@@ -339,7 +339,7 @@
     }, {
         "id": "0032",
         "details": [
-            ["嘻嘻，哪里哪里~", "<img src='img/xiaoluo.jpg'>"]
+            ["嘻嘻，哪里哪里~", "<img src='images/xiaoluo.jpg'>"]
         ]
     }, {
         "id": "0033",
@@ -439,7 +439,7 @@
         "details": [
             [
                 "我最近做了一个名叫Aimage应用~",
-                "<img src='img/aimage.jpg'>",
+                "<img src='images/aimage.jpg'>",
                 "挺好看的吧？\\(^o^)/~",
                 "欢迎注册使用哦"
             ]
