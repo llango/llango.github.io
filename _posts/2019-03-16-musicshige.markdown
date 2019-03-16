@@ -6,13 +6,12 @@ date:   2019-03-16 04:05:18 +0800
 img: 20190316.jpg
 ---
 <br>
-<h5 style="color:#999; font-size:12px;font-weight:300">图片选自我之前自拍的。我对影子有某种潜在的喜爱，之前也就影子写过一系列的小诗。以后我定会就影子写一部魔幻超意识现代主义小说来向自己曾经的孤独致敬。</h5>
-<br>
-<iframe frameborder="0" width="100%" style="min-height:320px; width:100%; border:none;" src="https://v.qq.com/txp/iframe/player.html?vid=h0539wqeupq" allowFullScreen="true"></iframe>
+<h5 style="color:#999; font-size:12px;font-weight:300">图片选自我之前自拍的。我对影子有某种潜在的喜爱，之前也就影子写过一系列的小诗。以后我定会就影子写一部魔幻超意识现代主义小说来向自己曾经的孤独致敬。<br>
+小诗写于刚才。如果你想看mv，拖到最后便可以看了。</h5>
 <br>
 <br>
 <b>看不到</b>
-<br>
+<h5 style="color:#999; font-size:12px;font-weight:300; text-align: right;">凉葱落</h5>
 <br>
 我<br>
 看不到<br>
@@ -47,4 +46,6 @@ img: 20190316.jpg
 我<br>
 
 <br>
----凉葱落,写于2019.3.16晚。<br>
+---,写于2019.3.16晚。<br>
+
+<iframe frameborder="0" width="100%" style="min-height:320px; width:100%; border:none;" src="https://v.qq.com/txp/iframe/player.html?vid=h0539wqeupq" allowFullScreen="true"></iframe>
