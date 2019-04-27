@@ -16,23 +16,23 @@ img: 20190427.jpg
 
 0. 活着的意义是什么？<br>
 
-<iframe frameborder="0" width="100%" style="min-height:340px; width:100%; border:none;" src="https://v.qq.com/txp/iframe/player.html?vid=l08005vsgci" allowFullScreen="true"></iframe>
+<iframe frameborder="0" width="100%" style="min-height:320px; width:100%; border:none;" src="https://v.qq.com/txp/iframe/player.html?vid=l08005vsgci" allowFullScreen="true"></iframe>
 
 1. 活着的意义,赞美诗歌<br>
 
-<iframe frameborder="0" width="100%" style="min-height:340px; width:100%; border:none;" src="https://v.qq.com/txp/iframe/player.html?vid=d0356vb4e9j" allowFullScreen="true"></iframe>
+<iframe frameborder="0" width="100%" style="min-height:320px; width:100%; border:none;" src="https://v.qq.com/txp/iframe/player.html?vid=d0356vb4e9j" allowFullScreen="true"></iframe>
 
 2. 明白死亡的价值，才会懂得活着的意义<br>
 
-<iframe frameborder="0" width="100%" style="min-height:340px; width:100%; border:none;" src="https://v.qq.com/txp/iframe/player.html?vid=n0321a7b2no" allowFullScreen="true"></iframe>
+<iframe frameborder="0" width="100%" style="min-height:320px; width:100%; border:none;" src="https://v.qq.com/txp/iframe/player.html?vid=n0321a7b2no" allowFullScreen="true"></iframe>
 
 3. 中国科学院院士上台分享人生经历，这就是活着的意义<br>
 
-<iframe frameborder="0" width="100%" style="min-height:340px; width:100%; border:none;" src="https://v.qq.com/txp/iframe/player.html?vid=t067134b12x" allowFullScreen="true"></iframe>
+<iframe frameborder="0" width="100%" style="min-height:320px; width:100%; border:none;" src="https://v.qq.com/txp/iframe/player.html?vid=t067134b12x" allowFullScreen="true"></iframe>
 
 4.  有没有思考或迷茫过你活着的意义到底是什么？<br>
 
-<iframe frameborder="0" width="100%" style="min-height:340px; width:100%; border:none;" src="https://v.qq.com/txp/iframe/player.html?vid=v0319fxq7rq" allowFullScreen="true"></iframe>
+<iframe frameborder="0" width="100%" style="min-height:320px; width:100%; border:none;" src="https://v.qq.com/txp/iframe/player.html?vid=v0319fxq7rq" allowFullScreen="true"></iframe>
 
 5. 活着的意义——塞姆勒<br>
 
