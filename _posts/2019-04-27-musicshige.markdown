@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "活着的意义(mv)"
+title:  "活着的意义(整理一些关于它的mv)"
 author: '凉葱落'
-date:   2019-04-18 04:05:18 +0800
-img: 20190418.jpg
+date:   2019-04-27 04:05:18 +0800
+img: 20190427.jpg
 ---
 <br>
 <h5 style="color:#999; font-size:12px;font-weight:300">图片为前两天拍的。</h5>
