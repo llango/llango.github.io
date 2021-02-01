@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "爱的表达"
+author: '良葱落'
+date:   2021-02-01 04:05:18 +0800
+img: 20210201.jpg
+---
+
+<p style="color:#999; font-size:13px; font-weight:300">好久没有写点东西了。还是得慢慢拾起我那个曾经憧憬成为诗人的梦的片叶逗趣。封面照片为前一段时间早上在浏阳河边上跑步拍的。</p>
+
+<iframe  frameborder="0" width="100%" style="min-height:320px; width:100%; border:none;" src="https://player.bilibili.com/player.html?aid=53007916&bvid=BV1N4411j71y&cid=92736094&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+
