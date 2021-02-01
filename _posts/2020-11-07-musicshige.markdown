@@ -10,7 +10,9 @@ img: 20201107.jpg
 
 <h5 style="color:#999; font-size:12px;font-weight:300; text-align: right;">凉葱落</h5>
 
-&nbsp;&nbsp;&nbsp;&nbsp;北国的天灰朦朦的有些模糊，远远地看来多了些许魔幻。偶尔阵阵寒风抽搐着，带着街旁梧桐树叶的嘶嘶叫声,而平铺街上的树叶却在丝丝缕缕地舞动着秋风，寂静的气息仿佛从汽笛声的间隙里奔袭，有着出生婴儿的清新怡人。
+&nbsp;&nbsp;&nbsp;&nbsp;北国的天灰朦朦的有些模糊，远远地看来多了些许魔幻。偶尔阵阵寒风抽搐着，带着街旁梧桐树叶的嘶嘶叫声,而平铺街上的树叶却在丝丝缕缕地舞动着秋风。静静地感受时，寂静的气息仿佛从汽笛声的间隙里奔袭，有着出生婴儿的清新怡人。
+
+&nbsp;&nbsp;&nbsp;&nbsp;趁着出差留出的休闲空隙，我背着运动双肩包准备出去走走。看着泛黄的银杏叶子，心想着要怎样用手机可以拍出美丽金秋盛景。
 
 <iframe frameborder="0" width="100%" style="min-height:320px; width:100%; border:none;" src="https://v.qq.com/txp/iframe/player.html?vid=v0176lp8z6c" allowFullScreen="true"></iframe>
 
